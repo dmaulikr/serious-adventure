@@ -1,15 +1,15 @@
 /**
  * Created with JetBrains WebStorm.
  * User: stry41802
- * Date: 31/03/13
- * Time: 7:56 AM
+ * Date: 30/03/13
+ * Time: 7:20 PM
  * To change this template use File | Settings | File Templates.
- */
-Ext.define('CRUD.route.horse', {
+*/
+Ext.define('NONAME.routes.horse', {
     /**
      * List the items in the Doc collection
      */
-    list: function (req, res, next) {
+    list: function(req, res, next) {
         if (req.params.start && !req.params.limit) {
             next();
             return;
@@ -18,7 +18,7 @@ Ext.define('CRUD.route.horse', {
             autoLoad: {
                 skip: req.params.start,
                 limit: req.params.limit,
-                callback: function (records, operation, success) {
+                callback: function(records, operation, success) {
                     var _array = new Array();
                     Ext.Array.forEach(records, function (item) {
                         var data = item.data;
@@ -68,7 +68,7 @@ Ext.define('CRUD.route.horse', {
     /**
      * Updates an item by its id
      */
-    put: function(req, res) {
+    put: function (req, res) {
         var store = Ext.create('Next.data.Store.Horse');
         store.getById(req.params.id, function (obj) {
             if (obj === null) {
@@ -100,7 +100,7 @@ Ext.define('CRUD.route.horse', {
                 }, 400);
             } else {
                 obj.destroy({
-                    success: function() {
+                    success: function () {
                         res.send(obj.data);
                     },
                     failure: function() {
@@ -113,4 +113,3 @@ Ext.define('CRUD.route.horse', {
         });
     }
 });
-

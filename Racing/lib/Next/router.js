@@ -1,3 +1,4 @@
+/*
 Ext.define('Next.router', {
     app: null,
     constructor: function (config) {
@@ -37,3 +38,4 @@ Ext.define('Next.router', {
         });
     }
 });
+    */
