@@ -1,0 +1,32 @@
+exports.routes = [
+    {
+        route: '/horse/:start?/:limit?',
+        method: 'GET',
+        handler: { class: 'CRUD.route.horse', method: 'list'}
+    },
+    {
+        route: '/horse/count',
+        method: 'GET',
+        handler: { class: 'CRUD.route.horse', method: 'horseCount'}
+    },
+    {
+        route: '/horse',
+        method: 'POST',
+        handlerCls: 'CRUD.route.horse'
+    },
+    {
+        route: '/horse/:id',
+        method: 'GET',
+        handlerCls: 'CRUD.route.horse'
+    },
+    {
+        route: '/horse/:id',
+        method: 'PUT',
+        handlerCls: 'CRUD.route.horse'
+    },
+    {
+        route: '/horse/:id',
+        method: 'DELETE',
+        handlerCls: 'CRUD.route.horse'
+    }
+];
