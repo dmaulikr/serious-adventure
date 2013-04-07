@@ -16,5 +16,4 @@ var ResultSchema = new Schema({
     PoolType : String
 });
 
-mongoose.model('Result', ResultSchema);
-exports.Result = mongoose.model('Result');
+module.exports = mongoose.model('result', ResultSchema);

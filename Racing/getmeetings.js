@@ -7,7 +7,7 @@
  */
 var mongoose = require('mongoose'),
     util = require('util'),
-    Meeting = require('./models/meeting').Meeting;
+    Meeting = require('./models/meeting');
 //mongoose.set('debug', true);
 var uri = 'mongodb://localhost/racingdata?poolSize=10';
 mongoose.connect(uri);
@@ -65,7 +65,7 @@ function getRaceMeeting(hostname, relurl, callback) {
         });
     });
 }
-debugger;
+
 //var year = 2013;
 //var month = 3;
 //var days = [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];

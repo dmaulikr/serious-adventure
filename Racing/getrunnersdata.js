@@ -2,13 +2,13 @@
 var mongoose = require('mongoose'),
     util = require('util');
 //mongoose.set('debug', true);
-var Horse = require('./models/horse').Horse,
-    Rider = require('./models/rider').Rider,
-    Meeting = require('./models/meeting').Meeting;
+var Horse = require('./models/horse'),
+    Rider = require('./models/rider'),
+    Meeting = require('./models/meeting');
 
 var uri = 'mongodb://localhost/racingdata?poolSize=10';
 var db = mongoose.connect(uri);
-//var db = mongoose.createConnection();
+
 
 
 function postUpdates(hq, rq, hupd, rupd) {
@@ -124,7 +124,6 @@ function raceData(race) {
             if (pool.$.PoolType === 'WW' && pool.$.Available === 'Y') {
                 paying = true;
                 if (paying) {
-                    debugger;
                     getResults(race);
                 }
             }
@@ -146,7 +145,7 @@ function getRace(hostname, relurl, callback) {
     http.get(config, function ( res ) {
         res.addListener('end', function() {
             simplexml.parse(body, function(e, parsed) {
-                debugger;
+
                 try {
                     callback(parsed.Meeting.Race);
                 } catch (e) {
@@ -170,22 +169,23 @@ function processMeets(meet) {
     for (var r = 1; r <= noRaces; r++) {
         try {
             var relurl = util.format('/pagedata/racing/%d/%d/%d/%s%d.xml', year, month, day, mcode, r);
-            debugger;
             getRace('tatts.com', relurl, raceData);
         } catch (e) {
             console.log('processMeets ' + e);
         }
     }
 }
-module.exports = function getRunners(year, month, day) {
-    var leanStream = Meeting.
-    find({Year: year, Month: month, Day : day}, 'Year Month Day VenueName MeetingCode HiRaceNo').
-    sort({Year: 'ASC', Month: 'ASC', Day: 'ASC', MeetingCode: 'ASC' }).
-    lean().
-    stream();
-    leanStream.on('data', processMeets)
-        .on('error', function (err) {
-            console.log(err);
-        });
+module.exports = function getRunners(year, month, days) {
+    days.forEach(function (day) {
+        var leanStream = Meeting.
+        find({Year: year, Month: month, Day : day}, 'Year Month Day VenueName MeetingCode HiRaceNo').
+        sort({Year: 'ASC', Month: 'ASC', Day: 'ASC', MeetingCode: 'ASC' }).
+       // lean().
+        stream();
+        leanStream.on('data', processMeets)
+            .on('error', function (err) {
+                console.log(err);
+            });
+    });
 };
 	//mongoose.disconnect;

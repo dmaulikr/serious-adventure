@@ -9,9 +9,9 @@ var HorseSchema = new Schema({
     seconds : { type : Number, default : 0 },
     thirds : { type : Number, default : 0 },
     fourths : { type : Number, default : 0 },
-    horse_id : ObjectId
+    rating : { type : Number, default : 0, index: {unique: false}}
 });
 
 
-mongoose.model('Horse', HorseSchema);
-exports.Horse = mongoose.model('Horse');
+module.exports = mongoose.model('Horse', HorseSchema);
+

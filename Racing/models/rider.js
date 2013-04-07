@@ -11,8 +11,7 @@ var RiderSchema = new Schema({
     seconds : { type : Number, default : 0 },
     thirds : { type : Number, default : 0 },
     fourths : { type : Number, default : 0 },
-    rider_id : ObjectId
+    rating : { type : Number, default : 0 , index: {unique: false }}
 });
 
-mongoose.model('Rider', RiderSchema);
-exports.Rider = mongoose.model('Rider');
+module.exports = mongoose.model('Rider', RiderSchema);

@@ -1,15 +1,15 @@
 /**
  * Created with JetBrains WebStorm.
- * User: stry41802
- * Date: 19/03/13
- * Time: 5:54 PM
+ * User: jstrydom
+ * Date: 7/04/13
+ * Time: 3:34 PM
  * To change this template use File | Settings | File Templates.
  */
 var mongoose = require('mongoose'),
     Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
 
-var Runner = new Schema({
+var RunnerSchema = new Schema({
     Barrier : Number,
     Handicap: String,
     LastResult: String,
@@ -23,16 +23,4 @@ var Runner = new Schema({
     Weight: String
 });
 
-var RaceSchema = new Schema({
-    RaceNo : { type : Number, index : true },
-    Month : Number,
-    Day : Number,
-    Time : Number,
-    CloseTime : Date,
-    MeetingCode: String,
-    RaceName : String,
-    Distance : Number,
-    Runners: [Runner]
-});
-
-module.exports = mongoose.model('Race', RaceSchema);
+module.exports = mongoose.model('Runner', RunnerSchema);

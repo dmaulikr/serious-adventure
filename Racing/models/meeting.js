@@ -23,10 +23,10 @@ var MeetingSchema = new Schema({
     VenueName : String,
     SortOrder : String,
     HiRaceNo : Number,
-    MeetingCode : { type : String, index : true },
-  //  Races : [Race],
-    meeting_id : ObjectId
+    MeetingCode : { type : String, index : true }
 });
 
-mongoose.model('Meeting', MeetingSchema);
-exports.Meeting = mongoose.model('Meeting');
+
+module.exports = mongoose.model('Meeting', MeetingSchema);
+
+
