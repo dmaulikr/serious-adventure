@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/adapters.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1364985963935" ignored="false" />
     <file path="/MongoAdapter.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1364987488430" ignored="false" />
-    <file path="/Dummy.txt" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365323590237" ignored="false" />
+    <file path="/Dummy.txt" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365406884419" ignored="false" />
     <file path="/Horse.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365069228354" ignored="false" />
     <file path="/app.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365070482462" ignored="false" />
     <file path="/server.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365297395090" ignored="false" />
@@ -285,13 +285,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.nodejs" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="options.lastSelected" value="settings.nodejs" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.Racing">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -327,7 +327,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="973" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -460,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/restlet/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/restlet/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -509,6 +502,13 @@
             <marker date="1353591446000" expanded="false" signature="213297:213321" placeholder="..." />
             <marker date="1353591446000" expanded="false" signature="213361:213412" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/restlet/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
