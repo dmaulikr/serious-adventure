@@ -1,2 +1,0 @@
-# RacingMaster
-### a Sails application
