@@ -18,7 +18,7 @@
     <file path="/result.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1364789541144" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/models/rider.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365289521623" ignored="false" />
     <file path="/rider.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365289510914" ignored="false" />
-    <file path="/fragment.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365317010210" ignored="false" />
+    <file path="/fragment.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365411226343" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/server.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365297397187" ignored="false" />
     <file path="$PROJECT_DIR$/../RacingMaster/package.json" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1364896319292" ignored="false" />
     <file path="$PROJECT_DIR$/../RacingMaster/npm-debug.log" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1364895473869" ignored="false" />
@@ -54,8 +54,8 @@
     <file path="$PROJECT_DIR$/../Racing/node_modules/mongoose/lib/model.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365286452271" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/utils/utils.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365296097640" ignored="false" />
     <file path="/utils.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365292277973" ignored="false" />
-    <file path="$PROJECT_DIR$/../Racing/getraces.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365322204810" ignored="false" />
-    <file path="/getraces.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365322187156" ignored="false" />
+    <file path="$PROJECT_DIR$/../Racing/getraces.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365413333612" ignored="false" />
+    <file path="/getraces.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365413317281" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/models/racerunner.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365321788609" ignored="false" />
     <file path="/racerunner.js" changelist="69863ba0-1161-45c8-b90c-9a7d8cf58bc8" time="1365317126436" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -463,7 +463,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="973" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982457" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

@@ -19,7 +19,7 @@
     <file path="/config.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365215904249" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/routes/routes.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365216763251" ignored="false" />
     <file path="/routes.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365216592366" ignored="false" />
-    <file path="/fragment.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365317010210" ignored="false" />
+    <file path="/fragment.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365411226343" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/models/meeting.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365289493759" ignored="false" />
     <file path="/meeting.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365289449805" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/loader.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365311359082" ignored="false" />
@@ -38,8 +38,8 @@
     <file path="$PROJECT_DIR$/../Racing/utils/utils.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365296097640" ignored="false" />
     <file path="/utils.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365292277973" ignored="false" />
     <file path="/race.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365313923553" ignored="false" />
-    <file path="$PROJECT_DIR$/../Racing/getraces.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365322204811" ignored="false" />
-    <file path="/getraces.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365322187158" ignored="false" />
+    <file path="$PROJECT_DIR$/../Racing/getraces.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365413333612" ignored="false" />
+    <file path="/getraces.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365413317281" ignored="false" />
     <file path="$PROJECT_DIR$/../Racing/models/racerunner.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365321788609" ignored="false" />
     <file path="/racerunner.js" changelist="ebf411d9-d595-47e5-91f2-c02f2198a9d7" time="1365317126435" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -327,7 +327,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="973" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

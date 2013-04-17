@@ -1,12 +1,11 @@
 /**
  * Created with JetBrains WebStorm.
  * User: jstrydom
- * Date: 6/04/13
- * Time: 12:35 PM
+ * Date: 14/04/13
+ * Time: 5:42 PM
  * To change this template use File | Settings | File Templates.
  */
+
 exports.creds = {
-    appName: 'RasceMaster',
-    version: '0.0.1a',
-    mongoUrl: 'mongodb://localhost/racingdata?poolSize=10'
-}
+    url: 'mongodb://localhost/racedata'
+};

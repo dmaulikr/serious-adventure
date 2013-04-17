@@ -1,15 +1,14 @@
 /**
  * Created with JetBrains WebStorm.
- * User: stry41802
- * Date: 17/03/13
- * Time: 6:40 PM
+ * User: jstrydom
+ * Date: 17/04/13
+ * Time: 8:40 AM
  * To change this template use File | Settings | File Templates.
  */
 
 var mongoose = require('mongoose'),
     Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
-    //Race = require('./race');
 
 var MeetingSchema = new Schema({
     RaceDayDate : {type : Date, index : true },
@@ -23,10 +22,9 @@ var MeetingSchema = new Schema({
     VenueName : String,
     SortOrder : String,
     HiRaceNo : Number,
-    MeetingCode : { type : String, index : true }
+    MeetingCode : { type : String, index : true },
+    Races : [{type: Schema.ObjectId, ref: 'Race'}]
 });
 
 
 module.exports = mongoose.model('Meeting', MeetingSchema);
-
-
