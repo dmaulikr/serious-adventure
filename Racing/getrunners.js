@@ -21,10 +21,7 @@ var client = restify.createJsonClient({
 
 
 function processPlacing(r, p) {
-
-    var placing = 0;
     var horse, rider;
-
 
     if (p !== null) {
         if (p.place === '1') {
@@ -49,15 +46,15 @@ function processPlacing(r, p) {
         try {
 
             client.post('/horses', horse, function(err, req, res, obj) {
-                if (err) console.log(err);;
-                console.log('%d -> %j', res.statusCode, res.headers);
+                if (err) console.log(err);
+                //console.log('%d -> %j', res.statusCode, res.headers);
                 console.log('%j', obj);
             });
 
 
             client.post('/riders',rider,  function (err, req, res, obj) {
                 if (err) console.log(err);
-                console.log('%d -> %j', res.statusCode, res.headers);
+                //console.log('%d -> %j', res.statusCode, res.headers);
                 console.log('%j', obj);
             });
 
@@ -184,4 +181,4 @@ module.exports = function getRunners(year, month, day) {
             .on('error', function (err) {
                 console.log(err);
             });
-}
+};

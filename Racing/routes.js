@@ -12,15 +12,13 @@ var Horse = require('./models/horse'),
     Rider = require('./models/rider'),
     Meeting = require('./models/meeting');
 
-// This function is responsible for returning all entries for the Message model
 function getHorses(req, res, next) {
-    // Resitify currently has a bug which doesn't allow you to set default headers
-    // This headers comply with CORS and allow us to server our response to any origin
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
-    Horse.find().skip(req.params.skip),limit(req.params.limit).execFind(function (arr,data) {
+    Horse.find().skip(req.params.skip).limit(req.params.limit).execFind(function (arr,data) {
         res.send(data);
     });
+    next();
 }
 
 function getHorseByName (req, res, next) {
@@ -31,16 +29,16 @@ function getHorseByName (req, res, next) {
             res.send(401,"Horse not found");
         res.send(data);
     });
+    next();
 }
 
 function getRiders(req, res, next) {
-    // Resitify currently has a bug which doesn't allow you to set default headers
-    // This headers comply with CORS and allow us to server our response to any origin
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
     Rider.find().skip(req.params.skip).limit(req.params.limit).execFind(function (arr,data) {
         res.send(data);
     });
+    next();
 }
 
 
@@ -52,11 +50,11 @@ function getRiderByName (req, res, next) {
             res.send(401,"Rider not found");
         res.send(data);
     });
+    next();
 }
 function postHorse(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
-    // Create a new message model, fill it up and save it to Mongodb
     var options = { "upsert": true };
     var query = { "name" : req.params.name };
     var update = {};
@@ -85,22 +83,20 @@ function postHorse(req, res, next) {
             horse.calcRating();
             horse.save();
         }
-
         res.send(req.body);
     });
-
+   next();
 }
 
 
 function postRider(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
-    // Create a new message model, fill it up and save it to Mongodb
     var options = { "upsert": true };
     var appy = false;
     var name = req.params.name;
 
-    if (name.indexOf('(') > 0);
+    if (name.indexOf('(') > 0)
       appy = true;
     var query = { "name" : name.split('(')[0] };
     var update = {};
@@ -132,7 +128,7 @@ function postRider(req, res, next) {
 
         res.send(req.body);
     });
-
+    next();
 }
 
 function loadMeetingsFromUrl (req, res, next) {
@@ -157,6 +153,7 @@ function getMeetings (req, res, next) {
             res.send(401,"Horse not found");
         res.send(data);
     });
+    next();
 }
 
 function getMeetingsDay (req, res, next) {
@@ -168,6 +165,7 @@ function getMeetingsDay (req, res, next) {
             res.send(401,"meetings not found");
         res.send(data);
     });
+    next();
 }
 
 app.get('/meetings/:skip/:limit', getMeetings);
