@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1487" systemVersion="12A269" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CategoryEntity" representedClassName="CategoryEntity" syncable="YES">
+        <attribute name="isBought" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="insults" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="InsultEntity" inverseName="category" inverseEntity="InsultEntity" syncable="YES"/>
+    </entity>
+    <entity name="InsultEntity" representedClassName="InsultEntity" syncable="YES">
+        <attribute name="insult" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="showCount" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="category" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CategoryEntity" inverseName="insults" inverseEntity="CategoryEntity" syncable="YES"/>
+    </entity>
+    <entity name="PurchaseEntity" representedClassName="PurchaseEntity" syncable="YES">
+        <attribute name="iap_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isBought" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="path" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CategoryEntity" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="InsultEntity" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="PurchaseEntity" positionX="160" positionY="192" width="128" height="105"/>
+    </elements>
+</model>

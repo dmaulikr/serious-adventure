@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>purchases</key>
+	<array>
+		<dict>
+			<key>descr</key>
+			<string>+122 Jokes</string>
+			<key>image</key>
+			<string>OneLiners</string>
+			<key>name</key>
+			<string>One-Liners</string>
+			<key>path</key>
+			<string>costume</string>
+			<key>iap_id</key>
+			<string>com.brightnewt.fastlaughjokes.one_liners</string>
+			<key>isBought</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>descr</key>
+			<string>+122 Jokes</string>
+			<key>image</key>
+			<string>ToughGuy</string>
+			<key>name</key>
+			<string>Tough Guy</string>
+			<key>path</key>
+			<string>costume</string>
+			<key>iap_id</key>
+			<string>com.brightnewt.fastlaughjokes.chuck_norris</string>
+			<key>isBought</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>descr</key>
+			<string>+188 Jokes</string>
+			<key>image</key>
+			<string>KnockKnock</string>
+			<key>name</key>
+			<string>Knock Knock</string>
+			<key>path</key>
+			<string>costume</string>
+			<key>iap_id</key>
+			<string>com.brightnewt.fastlaughjokes.knock_knock</string>
+			<key>isBought</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>descr</key>
+			<string></string>
+			<key>image</key>
+			<string>remove_ads</string>
+			<key>name</key>
+			<string>Remove Ads</string>
+			<key>path</key>
+			<string>tennessee</string>
+			<key>iap_id</key>
+			<string>com.brightnewt.fastlaughjokes.remove_banner_ad</string>
+			<key>isBought</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>

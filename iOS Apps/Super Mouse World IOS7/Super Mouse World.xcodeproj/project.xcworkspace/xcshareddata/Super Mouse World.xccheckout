@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>441766CA-A05C-4529-84DA-902D839E904A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Super Mouse World</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49673961-C0A7-4E7F-B2D3-DA7BC195E503</key>
+		<string>http://192.168.2.25/svn/hadronRepository/trunk/iPhone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Super Mouse World_AppLovin/Super Mouse World.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49673961-C0A7-4E7F-B2D3-DA7BC195E503</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>49673961-C0A7-4E7F-B2D3-DA7BC195E503</key>
+		<string>http://192.168.2.25/svn/hadronRepository</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.2.25/svn/hadronRepository/trunk/iPhone/Super%20Mouse%20World_AppLovin/Super%20Mouse%20World.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49673961-C0A7-4E7F-B2D3-DA7BC195E503</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49673961-C0A7-4E7F-B2D3-DA7BC195E503</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhoneWorkSpace</string>
+		</dict>
+	</array>
+</dict>
+</plist>

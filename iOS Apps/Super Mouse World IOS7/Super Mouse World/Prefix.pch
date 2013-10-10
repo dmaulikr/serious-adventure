@@ -1,0 +1,85 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+//#define DEBUG_BOX2D TRUE
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "cocos2d.h"
+#import "SimpleAudioEngine.h"
+#endif
+
+#ifdef VERSION_IPHONE
+    #define IS_IPHONE YES
+    #define PTM_RATIO 16
+    #define igfloat(_x_) (_x_/2.0)
+#else
+    #define IS_IPHONE NO
+    #define PTM_RATIO 16
+    #define igfloat(_x_) (_x_)
+#endif
+
+#define WINSIZE    ([[CCDirector sharedDirector] winSize])
+
+
+#define POST_NOTIFICATION(_notification_name_,_object_)         [[NSNotificationCenter defaultCenter] postNotificationName:(_notification_name_) object:_object_]
+#define OBSERVE_NOTIFICATION(_notification_name_,_selector_)    [[NSNotificationCenter defaultCenter] addObserver:self selector:_selector_ name:_notification_name_ object:nil]
+#define REMOVE_OBSERVER() [[NSNotificationCenter defaultCenter] removeObserver:self]
+
+#define LEVEL_TIMEOUT 120
+#define LEVEL_LIFE 3
+
+enum GAME_OBJECT_TYPE {
+    OBJECT_TYPE_UNKNOW,
+    OBJECT_TYPE_BORDER,
+    OBJECT_TYPE_GROUND,
+    OBJECT_TYPE_WALL,
+    OBJECT_TYPE_HERO,
+    OBJECT_TYPE_COIN,
+    OBJECT_TYPE_CREEP_BAD,
+    OBJECT_TYPE_CREEP_GOOD,
+    OBJECT_TYPE_SPIKE,
+};
+
+enum ENEMY_SPECIFIC_TYPE {
+    ENEMY_TYPE_SPIKE,
+    ENEMY_TYPE_RED,
+    ENEMY_TYPE_BLUE,
+    ENEMY_TYPE_ROBOT,
+};
+
+//----------------------------------------------------------------------------------------------------------------------
+#define ANIM_FRAME(animname, frame) ([[CCSpriteFrameCache sharedSpriteFrameCache] spriteFrameByName: ([NSString stringWithFormat: @"%@_%d.png", (animname),  (frame)]) ] )
+
+#define ANIM_HEROFRAME(animname, frame) ([[CCSpriteFrameCache sharedSpriteFrameCache] spriteFrameByName: ([NSString stringWithFormat: @"%@_000%d.png", (animname),  (frame)]) ] )
+
+
+#define SHImageString(str)	({ UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone ?	([NSString stringWithFormat:@"%@.png", (str)]) : ([NSString stringWithFormat:@"%@@3x.png", (str)]); })
+
+#define SHOrientationLandScape
+
+#ifdef SHOrientationLandScape
+#define SCREEN_WIDTH			[[UIScreen mainScreen] bounds].size.height
+#define SCREEN_HEIGHT			[[UIScreen mainScreen] bounds].size.width
+#define SCALE_SCREEN_WIDTH		(SCREEN_WIDTH / 1024)
+#define SCALE_SCREEN_HEIGHT		(SCREEN_HEIGHT / 768)
+#define SCALE_SCREEN_WIDTH1		(SCREEN_WIDTH / 480)
+#define SCALE_SCREEN_HEIGHT1	(SCREEN_HEIGHT / 320)
+#else
+#define SCREEN_WIDTH			[[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT			[[UIScreen mainScreen] bounds].size.height
+#define SCALE_SCREEN_WIDTH		(SCREEN_WIDTH / 768)
+#define SCALE_SCREEN_HEIGHT		(SCREEN_HEIGHT / 1024)
+#define SCALE_SCREEN_WIDTH1		(SCREEN_WIDTH / 320)
+#define SCALE_SCREEN_HEIGHT1	(SCREEN_HEIGHT / 480)
+#endif
+
+#define LEVEL_COUNT 4

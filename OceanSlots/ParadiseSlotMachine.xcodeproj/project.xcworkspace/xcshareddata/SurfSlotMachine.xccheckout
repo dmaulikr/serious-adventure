@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E69CF3E8-8737-425E-B5A2-30F678B9575B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SurfSlotMachine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C438A89E-1D6D-4C39-B62E-B7E4C720820C</key>
+		<string>https://github.com/daddio/serious-adventure.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OceanSlots/SurfSlotMachine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C438A89E-1D6D-4C39-B62E-B7E4C720820C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daddio/serious-adventure.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C438A89E-1D6D-4C39-B62E-B7E4C720820C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C438A89E-1D6D-4C39-B62E-B7E4C720820C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>incredible-adventure</string>
+		</dict>
+	</array>
+</dict>
+</plist>

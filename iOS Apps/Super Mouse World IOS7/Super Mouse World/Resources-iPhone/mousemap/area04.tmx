@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="50" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="area01_level_tiles" tilewidth="16" tileheight="16">
+  <image source="area01_level_tiles.png" width="544" height="224"/>
+ </tileset>
+ <tileset firstgid="120" name="area02_level_tiles" tilewidth="16" tileheight="16">
+  <image source="area02_level_tiles.png" width="640" height="192"/>
+ </tileset>
+ <tileset firstgid="240" name="area03_level_tiles" tilewidth="16" tileheight="16">
+  <image source="area03_level_tiles.png" width="512" height="352"/>
+ </tileset>
+ <tileset firstgid="416" name="area04_level_tiles" tilewidth="16" tileheight="16">
+  <image source="area04_level_tiles.png" width="480" height="288"/>
+ </tileset>
+ <tileset firstgid="551" name="objects" tilewidth="16" tileheight="16">
+  <image source="objects.png" width="64" height="64"/>
+  <tile id="1">
+   <properties>
+    <property name="item" value="collectable"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="enemy" value="gripe"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="enemy" value="robot"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="enemy" value="snipe"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="enemy" value="spike"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="item" value="key"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="200" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztm1mO1DAQhpM+AMv9X4YdhplmfQF6YDgAixAX4AYgDgDOQ0QU7FQ7qbJd6u+T6uGXo7TjduK/vHQdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAb+73XXcnxN0Q90KcKeoHfe2nA9jGs9CHn4d4EeJln9ZvhPKY/sH7Ac55H/rwhxBXIT72//R1pn4XKf/J+wHO+RT68OcQX0J87XX1H94PcM48f8AT2UPO54d5/oAnsoeczw/zfAJP1HXfe9sg5/PDPH+4satdI3sehud8FOJxiCcRv2INOZ8fJG8r9SXp+haR/Iw15Hx+yPG2KX1YKG+RmF95O9HWkPP5IdZX9hGvu1bXZOr5p0h+xRpyPj+8yvC2ufp1o/+75BGtOcWcD2RS3/PSjP7mspIn3JrzLZWz/nG6aPWLwd8cKnrCU8z5wB6p3xzL4G9+LXhEa0rmfK2M2bCe2BpaDGmdzAunmPOBPbXnnUam+6fw/dAKteedRqbff6/f7WPHbCiDxv8x5hvn5KUA/9HyWiRAbUrlH1vPZ0jrF8PY+W0yjlrtYds6Zlu3w9br53q6T+d35H655dL9tetvfT8trbE+kXM+Q1rfqIW0zmKh90L5Un2m+3R2O53yvVDuqX20dOnzGWP5eeJ+tTi2HS5XtMMWnarPsE/nZohbIW7vypV7aR+t+pQ+n5HrG5d8j+Y8s2U7oP3q0vPGufPWsXHvotf3Y634XXRbet7/cnNc6fp5ee6+mXGcG86sWPqxtf40Nf8+6jXn6rdo6qNbn9L+P3feutQ8npYfTp1DS11/UPw96qNfn9L7VnL7e6l9BK34XXRb2tLHxeZ3c8n1Y2tpxe+i29Iavi41D61xVrDUPoJjnlOaj5f008zrL4Ty0vVprX1K1Kf1M/me8w+0f23t47zQit9Ft6X/Auk4Oy0=
+  </data>
+ </layer>
+ <objectgroup name="colisao" width="200" height="50">
+  <object x="6368" y="0">
+   <polygon points="0,0 0,768 32,768 32,0"/>
+  </object>
+  <object x="0" y="1216">
+   <polygon points="0,0 32,0 32,-1216 0,-1216"/>
+  </object>
+  <object x="16" y="800">
+   <polygon points="0,0 736,0 736,-32 0,-32"/>
+  </object>
+  <object x="1536" y="704">
+   <polygon points="0,0 -768,0 -768,128 -32,128"/>
+  </object>
+  <object x="768" y="832">
+   <polygon points="0,0 0,256 128,256 128,0"/>
+  </object>
+  <object x="896" y="960">
+   <polygon points="0,0 640,0 640,128 0,128"/>
+  </object>
+  <object x="0" y="1216">
+   <polygon points="0,0 0,384 1152,384 1152,0"/>
+  </object>
+  <object x="1280" y="1312">
+   <polygon points="0,0 0,288 256,288 256,0"/>
+  </object>
+  <object x="2112" y="1216">
+   <polygon points="0,0 1408,0 1408,384 0,384"/>
+  </object>
+  <object x="3648" y="1216">
+   <polygon points="0,0 0,384 128,384 128,0"/>
+  </object>
+  <object x="3904" y="1216">
+   <polygon points="0,0 0,384 128,384 128,0"/>
+  </object>
+  <object x="4160" y="1216">
+   <polygon points="0,0 0,384 128,384 128,0"/>
+  </object>
+  <object x="4416" y="1216">
+   <polygon points="0,0 1152,0 1152,384 0,384"/>
+  </object>
+  <object x="4288" y="1312">
+   <polygon points="0,0 128,0 128,288 0,288"/>
+  </object>
+  <object x="4032" y="1312">
+   <polygon points="0,0 128,0 128,288 0,288"/>
+  </object>
+  <object x="3776" y="1312">
+   <polygon points="0,0 128,0 128,288 0,288"/>
+  </object>
+  <object x="3520" y="1312">
+   <polygon points="0,0 128,0 128,288 0,288"/>
+  </object>
+  <object x="4192" y="544">
+   <polygon points="0,0 768,0 736,128 0,128"/>
+  </object>
+  <object x="4192" y="672">
+   <polygon points="0,0 0,256 128,256 128,0"/>
+  </object>
+  <object x="4320" y="800">
+   <polygon points="0,0 640,0 640,128 0,128"/>
+  </object>
+  <object x="5056" y="928">
+   <polygon points="0,0 0,32 96,32 96,0"/>
+  </object>
+  <object x="5024" y="1120">
+   <polygon points="0,0 160,0 160,32 0,32"/>
+  </object>
+  <object x="5248" y="1024">
+   <polygon points="0,0 0,32 160,32 160,0"/>
+  </object>
+  <object x="5568" y="960">
+   <polygon points="0,0 0,640 256,640 256,0"/>
+  </object>
+  <object x="5824" y="1216">
+   <polygon points="0,0 576,0 576,384 0,384"/>
+  </object>
+  <object x="6176" y="1216">
+   <polygon points="0,0 0,-192 32,-192 32,0"/>
+  </object>
+  <object x="5952" y="864">
+   <polygon points="0,0 0,32 96,32 96,0"/>
+  </object>
+  <object x="6144" y="768">
+   <polygon points="0,0 256,0 256,256 0,256"/>
+  </object>
+  <object name="personagem" gid="551" x="16" y="1216"/>
+  <object x="1632" y="1024">
+   <polygon points="0,0 0,32 96,32 96,0"/>
+  </object>
+  <object x="1824" y="1120">
+   <polygon points="0,0 0,32 160,32 160,0"/>
+  </object>
+  <object x="1600" y="1216">
+   <polygon points="0,0 0,32 160,32 160,0"/>
+  </object>
+  <object x="256" y="1088">
+   <polygon points="0,0 0,64 192,64 192,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="ground" width="200" height="50">
+  <object x="1152" y="1216">
+   <polyline points="0,0 -1152,0"/>
+  </object>
+  <object x="1536" y="1312">
+   <polyline points="0,0 -256,0"/>
+  </object>
+  <object x="1600" y="1216">
+   <polyline points="0,0 160,0"/>
+  </object>
+  <object x="1824" y="1120">
+   <polyline points="0,0 160,0"/>
+  </object>
+  <object x="1728" y="1024">
+   <polyline points="0,0 -96,0"/>
+  </object>
+  <object x="1536" y="960">
+   <polyline points="0,0 -640,0"/>
+  </object>
+  <object x="2112" y="1216">
+   <polyline points="0,0 1408,0"/>
+  </object>
+  <object x="3520" y="1312">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="3648" y="1216">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="3776" y="1312">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="3904" y="1216">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="4032" y="1312">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="4160" y="1216">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="4288" y="1312">
+   <polyline points="0,0 128,0"/>
+  </object>
+  <object x="4416" y="1216">
+   <polyline points="0,0 1152,0"/>
+  </object>
+  <object x="5568" y="960">
+   <polyline points="0,0 256,0"/>
+  </object>
+  <object x="5824" y="1216">
+   <polyline points="0,0 512,0"/>
+  </object>
+  <object x="6144" y="768">
+   <polyline points="0,0 192,0"/>
+  </object>
+  <object x="5952" y="864">
+   <polyline points="0,0 96,0"/>
+  </object>
+  <object x="5248" y="1024">
+   <polyline points="0,0 160,0"/>
+  </object>
+  <object x="5024" y="1120">
+   <polyline points="0,0 160,0"/>
+  </object>
+  <object x="5056" y="928">
+   <polyline points="0,0 96,0"/>
+  </object>
+  <object x="4320" y="800">
+   <polyline points="0,0 640,0"/>
+  </object>
+  <object x="256" y="1088">
+   <polyline points="0,0 192,0"/>
+  </object>
+  <object x="16" y="768">
+   <polyline points="0,0 736,0"/>
+  </object>
+  <object x="768" y="704">
+   <polyline points="0,0 768,0"/>
+  </object>
+ </objectgroup>
+ <layer name="itens" width="200" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEOhSAQQEHjaWy8//WsfmMwiF83LMwkNtgQ9IEuCwAAAAAAAAAAAAAAAAAAAADw1La+c2WwJ5kn/ZipD2g1Sh89zYVx6APieV/vuVqf1nFy0Ufdb23Oa9Q6DqP5t4lSI/ak/Hr8d4n21jdVqZlZ13QUGfvINl+IlL2PjHsSRNEHAJTVzkfnJzPTB54tXNMHcFdtv/j6PvRMHwAAAAAAAABAhAPjfByS
+  </data>
+ </layer>
+ <layer name="foreground" width="200" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt20lLw0AYxvEkV8Xl+19cwAUPLlCXi8sHcMFzFVxualG8KvoUW3xJEzuxTV6S/H/woINTJsP0daYjRhEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANMNaHEXryoayGXs/DQAAAAAAQPXeuBMBcl1TH0Au6gPIR30A+aiP6vGZrz7aWB/ec/YeH+HauFbec/YeH+HauFbec/YeH+HauFbec/YeH+HqslYHes6ucqN8KJ/KrfKiHBacg/ecvcdHuLqsVc/Ux0wSRbPJb3u/ZvWB+qjLe6UzqI+uqZMi9WH/z8h7zt7jI1xd1qpfH0+mJorWh+U9Z+/xUUDi/QBhbH38Z/+wvN+f3uOjeYb1Mcyz2UfKrI879b1XHpRHZUlZVlaU1Yz2X/3nkuLjAyE6pi7SKbM+Xk3fd32/rWwpu8reoL1j2ln97c/T40/zXg7t1YlHz1VVnK++TN9Ev/+P1T5RTpWz+Kd9ZNrj+qfHt/Oa9F4O7dUz+0f6a5n10T8TzSsLyqJyrtdeKJfKVTzaHtc/Pf6k93JAn9f+UYZ0fRS5l+M8hiz280eV+0cZ8uojpO45jyFL0/eP0Hs5zmPI0vT6CL2Xm+bfSdEcVZ2vvgEfJQCL
+  </data>
+ </layer>
+ <layer name="inimigos" width="200" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEKgCAMAFDpb6z+//uiQyBihYRY+R7sMGSweVEWAgAAAAAAAAAAAAAAAAAAAAAAAAAAAADA+8WpdwcAAAAAAPzVMsgOOp9zzvJ0F5+e1dR9WbyY+Yn9vtZC3CnVnAUAjOj4k3gPAQAAAAAAAGhlAyuYBXk=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Super Mouse World HD_Free.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Super Mouse World HD_Paid.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Super Mouse World_Free.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Super Mouse World_Paid.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>25183CA11630CB2100787A71</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>257F72C916472138008165F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CEC1239E1701127900523D90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CEC124EE170112C900523D90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

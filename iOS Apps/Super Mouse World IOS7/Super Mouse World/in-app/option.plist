@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effect</key>
+	<false/>
+	<key>lockmouse0</key>
+	<false/>
+	<key>lockmouse1</key>
+	<true/>
+	<key>lockmouse2</key>
+	<true/>
+	<key>lockmouse3</key>
+	<true/>
+	<key>lockmouse4</key>
+	<true/>
+	<key>music</key>
+	<false/>
+	<key>stage1</key>
+	<false/>
+	<key>stage2</key>
+	<true/>
+	<key>stage3</key>
+	<true/>
+	<key>stage4</key>
+	<true/>
+	<key>coin</key>
+	<integer>0</integer>
+	<key>currentstage</key>
+	<integer>1</integer>
+	<key>currentplayer</key>
+	<integer>0</integer>
+</dict>
+</plist>
