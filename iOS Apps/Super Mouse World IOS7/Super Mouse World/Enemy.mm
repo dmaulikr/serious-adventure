@@ -1,6 +1,6 @@
 //
 //  Enemy.m
-//  Super Mouse World
+//  Mighty Possum World
 //
 //  Created by Luiz Menezes on 25/10/12.
 //  Copyright (c) 2012 Thetis Games. All rights reserved.

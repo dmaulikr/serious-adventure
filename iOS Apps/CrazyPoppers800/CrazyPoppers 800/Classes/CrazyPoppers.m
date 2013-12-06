@@ -810,9 +810,9 @@
             [gameCenterManager authenticateLocalUser];
             
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                [gameCenterManager reportScore:totalHighScore1 forCategory:@"crazypoppers.basictraining.totalscore.iphone"];}
+                [gameCenterManager reportScore:totalHighScore1 forCategory:@"blowfishpoppers.basictraining.totalscore.iphone"];}
             else {
-                [gameCenterManager reportScore:totalHighScore1 forCategory:@"crazypoppers.basictraining.totalscore.ipad"];}
+                [gameCenterManager reportScore:totalHighScore1 forCategory:@"blowfishpoppers.basictraining.totalscore.ipad"];}
         }
          */
 
@@ -821,10 +821,10 @@
             if (localPlayer.isAuthenticated) {
                 GKScore *scoreReporter;
                 if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.basictraining.totalscore.iphone"] autorelease];
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.basictraining.totalscore.iphone"] autorelease];
                 }
                 else {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.basictraining.totalscore.ipad"] autorelease];	
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.basictraining.totalscore.ipad"] autorelease];	
                 }
                 scoreReporter.value = totalHighScore1;
                 NSLog(@"High Score: %d", totalHighScore1);
@@ -859,9 +859,9 @@
             
             gameCenterManager = [[[GameCenterManager alloc] init] autorelease];
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                [gameCenterManager reportScore:totalHighScore2 forCategory:@"crazypoppers.pack2.totalscore.iphone"];}
+                [gameCenterManager reportScore:totalHighScore2 forCategory:@"blowfishpoppers.pack2.totalscore.iphone"];}
             else {
-                [gameCenterManager reportScore:totalHighScore2 forCategory:@"crazypoppers.pack2.totalscore.ipad"];}
+                [gameCenterManager reportScore:totalHighScore2 forCategory:@"blowfishpoppers.pack2.totalscore.ipad"];}
         }
          */
 
@@ -870,10 +870,10 @@
             if (localPlayer.isAuthenticated) {
                 GKScore *scoreReporter;
                 if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.pack2.totalscore.iphone"] autorelease];
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.pack2.totalscore.iphone"] autorelease];
                 }
                 else {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.pack2.totalscore.ipad"] autorelease];	
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.pack2.totalscore.ipad"] autorelease];
                 }
                 scoreReporter.value = totalHighScore2;
                 NSLog(@"High Score: %d", totalHighScore2);
@@ -908,9 +908,9 @@
             
             gameCenterManager = [[[GameCenterManager alloc] init] autorelease];
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                [gameCenterManager reportScore:totalHighScore3 forCategory:@"crazypoppers.pack3.totalscore.iphone"];}
+                [gameCenterManager reportScore:totalHighScore3 forCategory:@"blowfishpoppers.pack3.totalscore.iphone"];}
             else {
-                [gameCenterManager reportScore:totalHighScore3 forCategory:@"crazypoppers.pack3.totalscore.ipad"];}
+                [gameCenterManager reportScore:totalHighScore3 forCategory:@"blowfishpoppers.pack3.totalscore.ipad"];}
         }
          */
 
@@ -919,10 +919,10 @@
             if (localPlayer.isAuthenticated) {
                 GKScore *scoreReporter;
                 if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.pack3.totalscore.iphone"] autorelease];
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.pack3.totalscore.iphone"] autorelease];
                 }
                 else {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.pack3.totalscore.ipad"] autorelease];	
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.pack3.totalscore.ipad"] autorelease];	
                 }
                 scoreReporter.value = totalHighScore3;
                 NSLog(@"High Score: %d", totalHighScore3);
@@ -957,9 +957,9 @@
             
             gameCenterManager = [[[GameCenterManager alloc] init] autorelease];
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                [gameCenterManager reportScore:totalHighScore4 forCategory:@"crazypoppers.pack4.totalscore.iphone"];}
+                [gameCenterManager reportScore:totalHighScore4 forCategory:@"blowfishpoppers.pack4.totalscore.iphone"];}
             else {
-                [gameCenterManager reportScore:totalHighScore4 forCategory:@"crazypoppers.pack4.totalscore.ipad"];}
+                [gameCenterManager reportScore:totalHighScore4 forCategory:@"blowfishpoppers.pack4.totalscore.ipad"];}
         }
          */
 
@@ -968,10 +968,10 @@
             if (localPlayer.isAuthenticated) {
                 GKScore *scoreReporter;
                 if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.pack4.totalscore.iphone"] autorelease];
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.pack4.totalscore.iphone"] autorelease];
                 }
                 else {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.pack4.totalscore.ipad"] autorelease];	
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.pack4.totalscore.ipad"] autorelease];	
                 }
                 scoreReporter.value = totalHighScore4;
                 NSLog(@"High Score: %d", totalHighScore4);
@@ -1020,9 +1020,9 @@
             
             gameCenterManager = [[[GameCenterManager alloc] init] autorelease];
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                [gameCenterManager reportScore:totalHighScore11 forCategory:@"crazypoppers.popometerpack.totalscore.iphone"];}
+                [gameCenterManager reportScore:totalHighScore11 forCategory:@"blowfishpoppers.popometerpack.totalscore.iphone"];}
             else {
-                [gameCenterManager reportScore:totalHighScore11 forCategory:@"crazypoppers.popometerpack.totalscore.ipad"];}
+                [gameCenterManager reportScore:totalHighScore11 forCategory:@"blowfishpoppers.popometerpack.totalscore.ipad"];}
         }
          */
 
@@ -1031,10 +1031,10 @@
             if (localPlayer.isAuthenticated) {
                 GKScore *scoreReporter;
                 if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.popometerpack.totalscore.iphone"] autorelease];
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.popometerpack.totalscore.iphone"] autorelease];
                 }
                 else {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.popometerpack.totalscore.ipad"] autorelease];	
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.popometerpack.totalscore.ipad"] autorelease];	
                 }
                 scoreReporter.value = totalHighScore11;
                 NSLog(@"High Score: %d", totalHighScore11);
@@ -1069,9 +1069,9 @@
             
             gameCenterManager = [[[GameCenterManager alloc] init] autorelease];
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                [gameCenterManager reportScore:totalHighScore12 forCategory:@"crazypoppers.megapack1.totalscore.iphone"];}
+                [gameCenterManager reportScore:totalHighScore12 forCategory:@"blowfishpoppers.megapack1.totalscore.iphone"];}
             else {
-                [gameCenterManager reportScore:totalHighScore12 forCategory:@"crazypoppers.megapack1.totalscore.ipad"];}
+                [gameCenterManager reportScore:totalHighScore12 forCategory:@"blowfishpoppers.megapack1.totalscore.ipad"];}
         }
          */
 
@@ -1080,10 +1080,10 @@
             if (localPlayer.isAuthenticated) {
                 GKScore *scoreReporter;
                 if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.megapack1.totalscore.iphone"] autorelease];
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.megapack1.totalscore.iphone"] autorelease];
                 }
                 else {
-                    scoreReporter = [[[GKScore alloc] initWithCategory:@"crazypoppers.megapack1.totalscore.ipad"] autorelease];	
+                    scoreReporter = [[[GKScore alloc] initWithCategory:@"blowfishpoppers.megapack1.totalscore.ipad"] autorelease];	
                 }
                 scoreReporter.value = totalHighScore12;
                 NSLog(@"High Score: %d", totalHighScore12);
@@ -1212,7 +1212,7 @@
 -(void) exitToFullVersion {
 	
 	fullVersionConfirm = nil;
-	fullVersionConfirm = [[UIAlertView alloc] initWithTitle: @"Thanks for trying Crazy Poppers Sneak Peek!" message: @"The FULL version of Crazy Poppers is coming soon to the App Store!  Check it out!" delegate: self cancelButtonTitle: @"No" otherButtonTitles: @"Ok" ,nil];
+	fullVersionConfirm = [[UIAlertView alloc] initWithTitle: @"Thanks for trying Blowfish Poppers Sneak Peek!" message: @"The FULL version of Blowfish Poppers is coming soon to the App Store!  Check it out!" delegate: self cancelButtonTitle: @"No" otherButtonTitles: @"Ok" ,nil];
 	[fullVersionConfirm show];
 	[fullVersionConfirm release];
 }

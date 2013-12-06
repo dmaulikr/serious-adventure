@@ -1,0 +1,55 @@
+These documents are brief instructions guiding you to reskinning the apps. You need to be familiar with reskinning apps, changing graphics, building and delivering apps to the AppStore.
+
+
+# About the app
+
+A very powerful camera app. Allows the user to take slow shutter shots for a cool original effect. The result can be edited using the Aviary library, shared by Facebook, Twitter or email or saved to the local photos on the device.
+
+Bonus - comes with 2 predefined targets - one for the free version, with ads and an in-app purchase that removes those ads and enables the image sharing options, and one for the paid version. 
+
+# What I did:
+
+Reorganised app project folder, reorganised resources folder, updated external libraries(Chartboost, Revmob), fixed some crashes.
+Most importantly, I added iPhone 5/5c/5s support and iOS7 support. This also involved some refactoring to the main methods.
+
+Made it extremely easy to configure with your own in-app purchase id, ad networks id and Flurry account.
+
+
+# You need to configure
+
+In Configuration.h :
+REVMOB_ID - for revmob ads
+CB_APPID, CB_APPSIG - for chartboost ads
+FLURRY_ID - for analytics
+APPIRATER_APP_ID - the app id(from iTunes Connect), for the ask-for-review popup
+APPIRATER_MESSAGE - the message for the ask-for-review popup
+
+APP_URL, APP_TITLE, SHARE_MESSAGE - for the various sharing options ; customise these with your own app's ones
+
+IN_APP_PURCHASE_ID - for the in-app purchase that removes the ads and enables sharing
+
+For the various sharing screens:
+APP_NAME, 
+APP_SHARE_MSG
+APP_URL
+CONTACT_US_EMAIL
+FBSHARE_URL
+FBSHARE_TEXT
+
+
+# What to change
+
+* App icons, splash images (remember Default-568h@2x.png!)
+* main background image - bg_main.png, bg_main@2x.png, bg_main_iPad.png and bg_main-568h@2x.png(!new!)
+
+You can change: 
+* app buttons (images prefixed by bt_ in resources folder).
+* you can also change the shutter sounds(in resources/sounds folder)
+
+As always, remember to keep the same file names and image formats and sizes as in the original.
+
+
+# You can also add:
+
+The existing AviarySDK library (used to allow post-processing of the image with effects, frames, badges and more) is the iOS6-compatible one, which doesn't require any API key. If you want the new, iOS7 version, you'll need to signup for a developer account on http://www.aviary.com, download the sdk and replace the existing one with the new one, but also enter your own API key in the target's Info panel (more instructions on the Aviary website).
+

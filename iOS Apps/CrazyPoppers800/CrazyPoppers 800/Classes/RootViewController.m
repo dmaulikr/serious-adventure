@@ -168,7 +168,7 @@
                                                    GAD_SIZE_320x50.height)];
 
         // Specify the ad's "unit identifier." This is your AdMob Publisher ID.
-        gADBbannerView.adUnitID = @"bd1f4150e4b24fb9";
+        gADBbannerView.adUnitID = @"pub-1270442553974838";
     }
     
     else {
@@ -179,7 +179,7 @@
                                                    GAD_SIZE_728x90.width,
                                                    GAD_SIZE_728x90.height)];
         // Specify the ad's "unit identifier." This is your AdMob Publisher ID.
-        gADBbannerView.adUnitID = @"a14f4d01bd7b8a4";        
+        gADBbannerView.adUnitID = @"pub-1270442553974838";        
     }
 
     // Let the runtime know which UIViewController to restore after taking
@@ -256,7 +256,7 @@
         UIImage *image = [UIImage imageWithContentsOfFile:imagePath];
         
         TWTweetComposeViewController *tweetSheet = [[TWTweetComposeViewController alloc] init];
-        [tweetSheet setInitialText: @"Help! Anyone know the solution to this level on #CrazyBlowfishPoppers? Try it yourself for FREE http://tinyurl.com/a5tmgje"];
+        [tweetSheet setInitialText: @"Help! Anyone know the solution to this level on #CrazyBlowfishPoppers? Try it yourself for FREE http://tinyurl.com/keh63lj"];
         [tweetSheet addImage:image];
         
 	    [self presentModalViewController:tweetSheet animated:YES];
@@ -280,7 +280,7 @@
         UIImage *image = [UIImage imageWithContentsOfFile:imagePath];
         
         SLComposeViewController *tweetSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeTwitter];
-        [tweetSheet setInitialText:@"Help! Anyone know the solution to this level on #CrazyBlowfishPoppers? Try it yourself for FREE http://tinyurl.com/a5tmgje"];
+        [tweetSheet setInitialText:@"Help! Anyone know the solution to this level on #CrazyBlowfishPoppers? Try it yourself for FREE http://tinyurl.com/keh63lj"];
         [tweetSheet addImage:image];
         
         [self presentViewController:tweetSheet animated:YES completion:nil];
@@ -304,7 +304,7 @@
         UIImage *image = [UIImage imageWithContentsOfFile:imagePath];
         
         SLComposeViewController *facebookSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeFacebook];
-        [facebookSheet setInitialText:@ "I need help! Does anyone know the solution to this level on Crazy Poppers? Try it yourself for FREE http://tinyurl.com/a5tmgje #CrazyBlowfishPoppers"];
+        [facebookSheet setInitialText:@ "I need help! Does anyone know the solution to this level on Crazy Poppers? Try it yourself for FREE http://tinyurl.com/keh63lj #CrazyBlowfishPoppers"];
         [facebookSheet addImage:image];
         
         [self presentViewController:facebookSheet animated:YES completion:nil];

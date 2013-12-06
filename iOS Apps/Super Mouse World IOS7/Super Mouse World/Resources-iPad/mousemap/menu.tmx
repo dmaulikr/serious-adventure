@@ -47,7 +47,7 @@
  </tileset>
  <layer name="background" width="70" height="24">
   <data encoding="base64" compression="zlib">
-   eJztl0kOwjAMRS2gwJpRsKUUISRWsOEMDAdADPc/BbZopNSkI21dhL/0BKjEcX8T1wFQqVSq5miEdBAfWSJ79t1DhmLZyWqMdJG+g5VgXtIiXybIwMFBMC9pcV/moJ6QbF9m4edGNKNmKG4frSWTaoDIlym468s/v5MCcL+LiB6815IqKrPHbJme51/XEcnlC4nWWNm9jfHb9JkGD6p5Bt883zhfyp7HKAjnbFvQ/FX1l0Wfb95xef/v8pL337/ccx8Trl1SxnIvq9ijdeuG3JETckaujAfylEouFK3HFkRrFsdc38JnHbDP1j6L5YqbVg/5WZ2f2f2U8WWJ16sF+81x1VMeI45dQow88erojbLeUxm+ZL0v9aVYTuqL+pInXh2+vADFMhay
+   eJztl1sOwiAQRYnaDfhoor9WjTHxjx/X4GMBxsf+V+GQdBKcQglKO02Ym5y0TQtMLzCAUiKRSDQczYEJUAEbQJP7ApixRcerRYBchf8/dXBijItb1JeVEk+MbF+W9fXAGtEw5JtHe86gBqC2/JLzmhRaj3Jek3xy+YJ7nlzHkZFvvGyBXeK20G/cZyKF6qYP/unfmHmUYhwZv0sHqfvAbu+XumPLxX7v8rIvT/rQueXdLVCWetnFHO1bD+AJXIArcCe8gDdXcLXMeByp75yF4DkZ3x9VMw/YZ2tN6tKOOkP5kJ7V6Zm9CpRPJZMfxxZr8kwpPXXEEoqJe29EfQkhvogv4os7BvGlqQ/tqx4G
   </data>
  </layer>
  <objectgroup name="colisao" width="70" height="24">
@@ -101,7 +101,7 @@
    <polygon points="0,0 0,-448 32,-448 32,0"/>
   </object>
  </objectgroup>
- <objectgroup name="ground" width="70" height="24">
+ <objectgroup name="ground" width="70" height="24" visible="0">
   <object x="0" y="576">
    <polyline points="0,0 416,0"/>
   </object>
@@ -127,17 +127,17 @@
    <polyline points="0,0 64,0"/>
   </object>
  </objectgroup>
- <layer name="itens" width="70" height="24">
+ <layer name="itens" width="70" height="24" visible="0">
   <data encoding="base64" compression="zlib">
    eJzt1LEJACAMBEBxGhv3X8/KRrQzongHIV2KJ3xKAPC+kufzO7kQJfKX+t1x/2yVSd91c0anukInAQAA3KsBbwEESg==
   </data>
  </layer>
- <layer name="foreground" width="70" height="24">
+ <layer name="foreground" width="70" height="24" visible="0">
   <data encoding="base64" compression="zlib">
-   eJzt10sOgjAUhWEWoAkuABMIbkDDEnjpHMU45+H+555BB41heEoLOV/yp4XBbaeNIhGRcJ18XyBQme8LBOrm+wIisks5uqDC2ouIiLh0QEfCnBJVqEYNeppadEcPwhlrStCZMKcz6wv11v+3WT+EM1xhvpHjv+8BjWhaaEZf4tlszDdySpzlG/ONfCXOEpHt+AHAKgpf
+   eJzt1zsKhDAUhWEXoKALGEHRDSguQVTsRcHex+y/9xRTiGh3NBk5H/yQNDdpr+OIiNgrMP0BS8WmP2Cp3PQHROSVEpSiYncWERG5k4s8wpwSVahGza/9vSW88aQPCglzOtRfNKCR8MZdmDuyf7hPaEbLSSv6Et9mY+7IEXGWacwdOSPOEpH/sQGUKQug
   </data>
  </layer>
- <layer name="inimigos" width="70" height="24">
+ <layer name="inimigos" width="70" height="24" visible="0">
   <data encoding="base64" compression="zlib">
    eJztwzENAAAIA7AFPfjXx8mDA9qkCQAAAABw6doA8MkA4GcAiw==
   </data>

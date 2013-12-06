@@ -1,0 +1,2726 @@
+<?xml version="1.0"?>        
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">        
+<ss:Styles>        
+<ss:Style ss:ID="1">        
+<ss:Font ss:Bold="1"/>        
+</ss:Style>        
+</ss:Styles>        
+<ss:Worksheet ss:Name="Sheet1">        
+<ss:Table>        
+<ss:Column ss:Width="200"/>        
+<ss:Column ss:Width="150"/>        
+<ss:Column ss:Width="150"/>        
+<ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Tapjoy.embeddedframework/Tapjoy.framework/Versions/A/Resources/TapjoyResources.bundle</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">0 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">14 X 14</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">13 X 13</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">24 X 18</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">22 X 17</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">19 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/FacebookSDKResources.bundle/FBFriendPickerView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">default.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Tapjoy.embeddedframework/Tapjoy.framework/Versions/Current/Resources/TapjoyResources.bundle</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">0 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">14 X 14</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">13 X 13</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">24 X 18</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">22 X 17</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">19 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Tapjoy.embeddedframework/Tapjoy.framework/Resources/TapjoyResources.bundle</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">0 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">14 X 14</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">13 X 13</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">24 X 18</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">22 X 17</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">19 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">.</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">114X114.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">114 X 114</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">120X120Gamer.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">120 X 120</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">144X144.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">144 X 144</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">152X152.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">152 X 152</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">29x29.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">29 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">40x40.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">40 X 40</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">57X57.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">57 X 57</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">58X58.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">58 X 58</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">72X72.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">72 X 72</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">76X76.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">76 X 76</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">80X80.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">80 X 80</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default-568h@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">479 X 851</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default-Landscape@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1535 X 1151</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default-Landscape~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">245 X 184</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default-Portrait@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1151 X 1535</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default-Portrait~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">184 X 245</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">240 X 360</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">479 X 719</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Icon-72.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">72 X 72</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Icon-Small-50.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Icon.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">57 X 57</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Icon@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">57 X 57</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">iTunesArtwork</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">512 X 512</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/Quizapp/Images.xcassets/LaunchImage.launchimage</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default-568h@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">479 X 851</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Default@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">479 X 719</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/FacebookSDKResources.bundle/FBLoginView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">bluetint.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">8 X 8</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">f_logo.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">140 X 140</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">facebook.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">196 X 40</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small-pressed.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small-pressed@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Fb Manger/FacebookSDK.framework/Versions/A/Resources/FacebookSDKResources.bundle/FBLoginView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">bluetint.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">8 X 8</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">f_logo.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">140 X 140</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">facebook.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">196 X 40</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small-pressed.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small-pressed@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">login-button-small@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">151 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/FBUserSettingsViewResources.bundle/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">facebook-logo.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">193 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">facebook-logo@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">192 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadLandscape.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1024 X 748</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadLandscape@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1024 X 748</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadPortrait.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 1004</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadPortrait@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 1004</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPhonePortrait.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 460</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPhonePortrait@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 460</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-normal.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">307 X 48</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-normal@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">306 X 47</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-pressed.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">307 X 48</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-pressed@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">306 X 46</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/FacebookSDKResources.bundle/FBDialog/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">29 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">29 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fbicon.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">14 X 14</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Fb Manger/FacebookSDK.framework/Versions/A/Resources/FBUserSettingsViewResources.bundle/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">facebook-logo.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">193 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">facebook-logo@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">192 X 43</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadLandscape.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1024 X 748</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadLandscape@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1024 X 748</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadPortrait.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 1004</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPadPortrait@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 1004</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPhonePortrait.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 460</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">loginBackgroundIPhonePortrait@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 460</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-normal.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">307 X 48</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-normal@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">306 X 47</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-pressed.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">307 X 48</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">silver-button-pressed@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">306 X 46</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Fb Manger/FacebookSDK.framework/Versions/A/Resources/FacebookSDKResources.bundle/FBDialog/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">29 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">29 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fbicon.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">14 X 14</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Tapjoy.embeddedframework/Resources/TapjoyResources.bundle</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">addressbar-background@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">0 X 44</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">back@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">14 X 14</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">13 X 13</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward-disabled@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">forward@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">17 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">24 X 18</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">openbrowser@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">22 X 17</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">19 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">refresh@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">18 X 20</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">TJCclose_button@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/FacebookSDKResources.bundle/FBPlacePickerView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fb_generic_place.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Fb Manger/FacebookSDK.framework/Versions/A/Resources/FacebookSDKResources.bundle/FBFriendPickerView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">default.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/Images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">bg.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 480</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">bg@2x.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 480</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">bg@2x~ipad.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1536 X 2048</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">bg~ipad.jpg</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 1024</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_additionaL_trivia.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_additionaL_trivia@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_additionaL_trivia@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">599 X 92</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_additionaL_trivia~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">301 X 47</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">312 X 52</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">312 X 51</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1382 X 188</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer_pressed.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">616 X 95</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer_pressed@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">308 X 47</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer_pressed@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1370 X 176</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer_pressed~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">685 X 88</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_answer~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">691 X 94</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_challages.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">105 X 28</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_challages@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">105 X 28</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_challages@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">449 X 119</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_challages~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">224 X 59</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_close.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">38 X 39</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_close@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">38 X 39</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_close@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">136 X 142</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_close~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">68 X 71</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_facebook.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">34 X 32</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_facebook@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">34 X 32</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_facebook@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">128 X 121</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_facebook~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">64 X 61</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_friends.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">26 X 26</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_friends@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">26 X 26</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_friends@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">112 X 113</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_friends~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">56 X 57</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_game_center.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">34 X 34</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_game_center@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">34 X 34</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_game_center@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">116 X 116</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_game_center~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">58 X 58</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_highscores.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">105 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_highscores@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">105 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_highscores@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">449 X 118</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_highscores~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">224 X 59</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_mail.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">55 X 35</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_mail@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">55 X 35</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_mail@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">213 X 136</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_mail~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">106 X 68</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_main_menu.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">111 X 16</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_main_menu@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">111 X 16</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_main_menu@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">446 X 65</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_main_menu~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">223 X 33</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_menu.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">75 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_menu@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">75 X 19</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_menu@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">380 X 102</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_menu~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">190 X 51</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_more_apps.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">103 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_more_apps@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">103 X 29</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_more_apps@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">438 X 118</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_more_apps~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">219 X 59</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_next_stage.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">120 X 16</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_next_stage@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">120 X 16</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_next_stage@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">486 X 65</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_next_stage~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">243 X 33</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_quit.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">41 X 24</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_quit@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">41 X 24</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_quit@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">174 X 97</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_quit~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">87 X 49</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_remove_ads.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 21</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_remove_ads@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 21</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_remove_ads@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">479 X 92</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_remove_ads~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">241 X 47</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_settings.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">28 X 28</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_settings@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">28 X 28</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_settings@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">117 X 117</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_settings~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">58 X 58</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_start_trivia.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 22</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_start_trivia@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 22</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_start_trivia@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">426 X 77</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_start_trivia~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">214 X 39</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_whos_in_gaming.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 31</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_whos_in_gaming@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">222 X 31</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_whos_in_gaming@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">944 X 112</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">btn_whos_in_gaming~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">472 X 56</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">cell_bg.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 45</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">cell_bg@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 45</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">cell_bg@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1536 X 207</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">cell_bg~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 104</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_middle_bg.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">303 X 264</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_middle_bg@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">303 X 264</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_middle_bg@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1370 X 1180</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_middle_bg~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">685 X 590</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_top.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">266 X 38</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_top@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">266 X 38</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_top@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1326 X 187</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">game_over_top~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">663 X 94</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">highscore_top.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 64</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">highscore_top@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 63</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">highscore_top@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1536 X 228</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">highscore_top~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 114</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">home_title.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">227 X 88</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">home_title@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">227 X 87</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">home_title@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">964 X 372</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">home_title~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">482 X 186</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_divider.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">285 X 1</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_divider@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">285 X 1</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_divider@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1306 X 2</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_divider~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">653 X 1</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_info.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">116 X 45</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_info@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">116 X 45</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_info@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">448 X 174</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_info~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">224 X 87</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_social.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">152 X 42</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_social@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">152 X 42</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_social@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">583 X 162</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">img_social~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">291 X 81</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">next_stage_middle_bg.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">308 X 355</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">next_stage_middle_bg@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">308 X 354</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">next_stage_middle_bg@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1184 X 1373</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">next_stage_middle_bg~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">592 X 687</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">settings_top.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 64</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">settings_top@2x.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">320 X 63</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">settings_top@2x~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">1536 X 228</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">settings_top~ipad.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">768 X 114</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Fb Manger/FacebookSDK.framework/Versions/A/Resources/FacebookSDKResources.bundle/FBPlacePickerView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fb_generic_place.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">50 X 50</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/ThirdParty/Fb Manger/FacebookSDK.framework/Versions/A/Resources/FacebookSDKResources.bundle/FBProfilePictureView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fb_blank_profile_portrait.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">200 X 240</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fb_blank_profile_square.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">200 X 200</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/RTQuiz</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Correct.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">32 X 32</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">Wrong.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">32 X 32</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String">/FacebookSDKResources.bundle/FBProfilePictureView/images</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fb_blank_profile_portrait.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">200 X 240</ss:Data>        
+</ss:Cell>        
+</ss:Row><ss:Row>        
+<ss:Cell>        
+<ss:Data ss:Type="String"></ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">fb_blank_profile_square.png</ss:Data>        
+</ss:Cell>        
+<ss:Cell>        
+<ss:Data ss:Type="String">200 X 200</ss:Data>        
+</ss:Cell>        
+</ss:Row>        
+</ss:Table>        
+</ss:Worksheet>        
+</ss:Workbook>

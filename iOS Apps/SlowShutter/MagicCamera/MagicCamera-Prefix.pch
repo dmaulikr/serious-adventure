@@ -1,0 +1,28 @@
+//
+// Prefix header for all source files of the 'MagicCamera' target in the 'MagicCamera' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+//#define FREE_VERSION
+
+#ifdef SHOrientationLandScape
+#define SCREEN_WIDTH			[[UIScreen mainScreen] bounds].size.height
+#define SCREEN_HEIGHT			([[UIScreen mainScreen] bounds].size.width)
+#define SCALE_SCREEN_WIDTH		(SCREEN_WIDTH / 1024)
+#define SCALE_SCREEN_HEIGHT		(SCREEN_HEIGHT / 768)
+#else
+#define SCREEN_WIDTH			[[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT			([[UIScreen mainScreen] bounds].size.height)
+#define SCALE_SCREEN_WIDTH		(SCREEN_WIDTH / 768)
+#define SCALE_SCREEN_HEIGHT		(SCREEN_HEIGHT / 1024)
+#endif

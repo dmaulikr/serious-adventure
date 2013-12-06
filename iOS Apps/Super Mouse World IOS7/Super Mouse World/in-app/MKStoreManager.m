@@ -12,87 +12,87 @@
 
 #if FREE_ELE_VERSION
 
-static NSString *featureGetCoin50 = @"com.topgame.supermousefree.coin50";
-static NSString *featureGetCoin400 = @"com.topgame.supermousefree.coin400";
-static NSString *featureGetCoin1500 = @"com.topgame.supermousefree.coin1500";
-static NSString *featureGetCoin5000 = @"com.topgame.supermousefree.coin5000";
+static NSString *featureGetCoin50 = @"au.com.incredibleadventure.MightyPossumfree.coin50";
+static NSString *featureGetCoin400 = @"au.com.incredibleadventure.MightyPossumfree.coin400";
+static NSString *featureGetCoin1500 = @"au.com.incredibleadventure.MightyPossumfree.coin1500";
+static NSString *featureGetCoin5000 = @"au.com.incredibleadventure.MightyPossumfree.coin5000";
 
 //static NSString *featureOpenLevel1 = @"com.twotenmobile.supermousefree.openlevel1";
-static NSString *featureOpenLevel2 = @"com.topgame.supermousefree.openlevel2";
-static NSString *featureOpenLevel3 = @"com.topgame.supermousefree.openlevel3";
-static NSString *featureOpenLevel4 = @"com.topgame.supermousefree.openlevel4";
+static NSString *featureOpenLevel2 = @"au.com.incredibleadventure.MightyPossumfree.openlevel2";
+static NSString *featureOpenLevel3 = @"au.com.incredibleadventure.MightyPossumfree.openlevel3";
+static NSString *featureOpenLevel4 = @"au.com.incredibleadventure.MightyPossumfree.openlevel4";
 
-static NSString *featureAllOpenLevel = @"com.topgame.supermousefree.allopenlevel";
+static NSString *featureAllOpenLevel = @"au.com.incredibleadventure.MightyPossumfree.allopenlevel";
 
-static NSString * kConsumableIdPaidVersion    = @"com.topgame.supermouse.removeAds";
+static NSString * kConsumableIdPaidVersion    = @"au.com.incredibleadventure.MightyPossum.removeAds";
 
 
 #elif PAID_ELE_VERSION
 
-static NSString *featureGetCoin50 = @"com.topgame.supermousefreeHD.coin50";
-static NSString *featureGetCoin400 = @"com.topgame.supermousefreeHD.coin400";
-static NSString *featureGetCoin1500 = @"com.topgame.supermousefreeHD.coin1500";
-static NSString *featureGetCoin5000 = @"com.topgame.supermousefreeHD.coin5000";
+static NSString *featureGetCoin50 = @"au.com.incredibleadventure.MightyPossumpaid.coin50";
+static NSString *featureGetCoin400 = @"au.com.incredibleadventure.MightyPossumpaid.coin400";
+static NSString *featureGetCoin1500 = @"au.com.incredibleadventure.MightyPossumpaid.coin1500";
+static NSString *featureGetCoin5000 = @"au.com.incredibleadventure.MightyPossumpaid.coin5000";
 
 //static NSString *featureOpenLevel1 = @"com.twotenmobile.supermousefreeHD.openlevel1";
-static NSString *featureOpenLevel2 = @"com.topgame.supermousefreeHD.openlevel2";
-static NSString *featureOpenLevel3 = @"com.topgame.supermousefreeHD.openlevel3";
-static NSString *featureOpenLevel4 = @"com.topgame.supermousefreeHD.openlevel4";
+static NSString *featureOpenLevel2 = @"au.com.incredibleadventure.MightyPossumpaid.openlevel2";
+static NSString *featureOpenLevel3 = @"au.com.incredibleadventure.MightyPossumpaid.openlevel3";
+static NSString *featureOpenLevel4 = @"au.com.incredibleadventure.MightyPossumpaid.openlevel4";
 
-static NSString *featureAllOpenLevel = @"com.topgame.supermousefreeHD.allopenlevels";
+static NSString *featureAllOpenLevel = @"au.com.incredibleadventure.MightyPossumpaid.allopenlevels";
 
-static NSString * kConsumableIdPaidVersion    = @"com.topgame.supermouseHD.removeAds";
+static NSString * kConsumableIdPaidVersion    = @"au.com.incredibleadventure.MightyPossumpaid.removeAds";
 
 
 
 #elif FREEHD_ELE_VERSION
 
-static NSString *featureGetCoin50 = @"com.topgame.supermousefreeHD.coin50";
-static NSString *featureGetCoin400 = @"com.topgame.supermousefreeHD.coin400";
-static NSString *featureGetCoin1500 = @"com.topgame.supermousefreeHD.coin1500";
-static NSString *featureGetCoin5000 = @"com.topgame.supermousefreeHD.coin5000";
+static NSString *featureGetCoin50 = @"au.com.incredibleadventure.MightyPossumfreeHD.coin50";
+static NSString *featureGetCoin400 = @"au.com.incredibleadventure.MightyPossumfreeHD.coin400";
+static NSString *featureGetCoin1500 = @"au.com.incredibleadventure.MightyPossumfreeHD.coin1500";
+static NSString *featureGetCoin5000 = @"au.com.incredibleadventure.MightyPossumfreeHD.coin5000";
 
 //static NSString *featureOpenLevel1 = @"com.twotenmobile.supermousefreeHD.openlevel1";
-static NSString *featureOpenLevel2 = @"com.topgame.supermousefreeHD.openlevel2";
-static NSString *featureOpenLevel3 = @"com.topgame.supermousefreeHD.openlevel3";
-static NSString *featureOpenLevel4 = @"com.topgame.supermousefreeHD.openlevel4";
+static NSString *featureOpenLevel2 = @"au.com.incredibleadventure.MightyPossumfreeHD.openlevel2";
+static NSString *featureOpenLevel3 = @"au.com.incredibleadventure.MightyPossumfreeHD.openlevel3";
+static NSString *featureOpenLevel4 = @"au.com.incredibleadventure.MightyPossumfreeHD.openlevel4";
 
-static NSString *featureAllOpenLevel = @"com.topgame.supermousefreeHD.allopenlevels";
+static NSString *featureAllOpenLevel = @"au.com.incredibleadventure.MightyPossumfreeHD.allopenlevels";
 
-static NSString * kConsumableIdPaidVersion    = @"com.topgame.supermouseHD.removeAds";
+static NSString * kConsumableIdPaidVersion    = @"au.com.incredibleadventure.MightyPossumHD.removeAds";
 
 
 #elif PAIDHD_ELE_VERSION
 
-static NSString *featureGetCoin50 = @"com.topgame.supermousepaidHD.coin50";
-static NSString *featureGetCoin400 = @"com.topgame.supermousepaidHD.coin400";
-static NSString *featureGetCoin1500 = @"com.topgame.supermousepaidHD.coin1500";
-static NSString *featureGetCoin5000 = @"com.topgame.supermousepaidHD.coin5000";
+static NSString *featureGetCoin50 = @"au.com.incredibleadventure.MightyPossumpaidHD.coin50";
+static NSString *featureGetCoin400 = @"au.com.incredibleadventure.MightyPossumpaidHD.coin400";
+static NSString *featureGetCoin1500 = @"au.com.incredibleadventure.MightyPossumpaidHD.coin1500";
+static NSString *featureGetCoin5000 = @"au.com.incredibleadventure.MightyPossumpaidHD.coin5000";
 
 //static NSString *featureOpenLevel1 = @"com.twotenmobile.supermousepaidHD.openlevel1";
-static NSString *featureOpenLevel2 = @"com.topgame.supermousepaidHD.openlevel2";
-static NSString *featureOpenLevel3 = @"com.topgame.supermousepaidHD.openlevel3";
-static NSString *featureOpenLevel4 = @"com.topgame.supermousepaidHD.openlevel4";
+static NSString *featureOpenLevel2 = @"au.com.incredibleadventure.MightyPossumpaidHD.openlevel2";
+static NSString *featureOpenLevel3 = @"au.com.incredibleadventure.MightyPossumpaidHD.openlevel3";
+static NSString *featureOpenLevel4 = @"au.com.incredibleadventure.MightyPossumpaidHD.openlevel4";
 
-static NSString *featureAllOpenLevel = @"com.topgame.supermousepaidHD.allopenlevel";
+static NSString *featureAllOpenLevel = @"au.com.incredibleadventure.MightyPossumpaidHD.allopenlevel";
 
-static NSString * kConsumableIdPaidVersion    = @"com.topgame.supermouseHD.removeAds";
+static NSString * kConsumableIdPaidVersion    = @"au.com.incredibleadventure.MightyPossumpaidHD.removeAds";
 
 #else
 
-static NSString *featureGetCoin50 = @"com.topgame.supermousefree.coin50";
-static NSString *featureGetCoin400 = @"com.topgame.supermousefree.coin400";
-static NSString *featureGetCoin1500 = @"com.topgame.supermousefree.coin1500";
-static NSString *featureGetCoin5000 = @"com.topgame.supermousefree.coin5000";
+static NSString *featureGetCoin50 = @"au.com.incredibleadventure.MightyPossumfree.coin50";
+static NSString *featureGetCoin400 = @"au.com.incredibleadventure.MightyPossumfree.coin400";
+static NSString *featureGetCoin1500 = @"au.com.incredibleadventure.MightyPossumfree.coin1500";
+static NSString *featureGetCoin5000 = @"au.com.incredibleadventure.MightyPossumfree.coin5000";
 
 //static NSString *featureOpenLevel1 = @"com.twotenmobile.supermousefree.openlevel1";
-static NSString *featureOpenLevel2 = @"com.topgame.supermousefree.openlevel2";
-static NSString *featureOpenLevel3 = @"com.topgame.supermousefree.openlevel3";
-static NSString *featureOpenLevel4 = @"com.topgame.supermousefree.openlevel4";
+static NSString *featureOpenLevel2 = @"au.com.incredibleadventure.MightyPossumfree.openlevel2";
+static NSString *featureOpenLevel3 = @"au.com.incredibleadventure.MightyPossumfree.openlevel3";
+static NSString *featureOpenLevel4 = @"au.com.incredibleadventure.MightyPossumfree.openlevel4";
 
-static NSString *featureAllOpenLevel = @"com.topgame.supermousefree.allopenlevel";
+static NSString *featureAllOpenLevel = @"au.com.incredibleadventure.MightyPossumfree.allopenlevel";
 
-static NSString * kConsumableIdPaidVersion    = @"com.topgame.supermouse.removeAds";
+static NSString * kConsumableIdPaidVersion    = @"au.com.incredibleadventure.MightyPossum.removeAds";
 
 #endif
 

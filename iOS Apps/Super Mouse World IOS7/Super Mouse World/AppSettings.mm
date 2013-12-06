@@ -1,6 +1,6 @@
 //
 //  AppSettings.m
-//  Super Mouse World
+//  Mighty Possum World
 //
 //  Created by Lion User on 3/25/13.
 //  Copyright (c) 2013 Thetis Games. All rights reserved.

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  Super Mouse World
+//  Mighty Possum World
 //
 //  Created by Luiz Menezes on 18/10/12.
 //  Copyright Thetis Games 2012. All rights reserved.

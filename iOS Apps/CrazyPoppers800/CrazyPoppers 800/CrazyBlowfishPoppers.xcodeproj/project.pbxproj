@@ -34,7 +34,6 @@
 		E781228713C91399001705F1 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E79D57BD126BF02A00321FCD /* CFNetwork.framework */; };
 		E781228A13C913B5001705F1 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = E79D57C5126BF16F00321FCD /* libsqlite3.0.dylib */; };
 		E781228B13C913CF001705F1 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7A62F71131325B400752E1E /* SystemConfiguration.framework */; };
-		E781229413C916B1001705F1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 507022A2107672FA00393637 /* AppDelegate.m */; };
 		E78122AD13C916F5001705F1 /* click.caf in Resources */ = {isa = PBXBuildFile; fileRef = E70BB6EC1174C6A2002A8085 /* click.caf */; };
 		E78D828712B81DDA00B339CC /* ping.caf in Resources */ = {isa = PBXBuildFile; fileRef = E78D828512B81DDA00B339CC /* ping.caf */; };
 		E792068A15E7BA4300C31037 /* blackBackground-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = E792068915E7BA4300C31037 /* blackBackground-hd.png */; };
@@ -67,7 +66,6 @@
 		E7E0D25417C7961E0020A198 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = E7E0D24517C7961C0020A198 /* README.txt */; };
 		E7E0D25517C7961E0020A198 /* libAdapterIAd.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E7E0D24717C7961C0020A198 /* libAdapterIAd.a */; };
 		E7E0D25617C7961E0020A198 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = E7E0D24817C7961C0020A198 /* README.txt */; };
-		E7E0D25717C7961E0020A198 /* RevMobAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7E0D24917C7961C0020A198 /* RevMobAds.framework */; };
 		E7E0D25817C7961E0020A198 /* TapjoyPublisherLibrary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E7E0D24D17C7961C0020A198 /* TapjoyPublisherLibrary.a */; };
 		E7E0D25917C7961F0020A198 /* TapjoyResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E7E0D24E17C7961C0020A198 /* TapjoyResources.bundle */; };
 		E7E0D34E17C7975D0020A198 /* Appirater.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E0D25D17C7975C0020A198 /* Appirater.m */; };
@@ -228,6 +226,8 @@
 		EB9244591806738D00601749 /* Icon76.png in Resources */ = {isa = PBXBuildFile; fileRef = EB9244561806738C00601749 /* Icon76.png */; };
 		EB92445A1806738D00601749 /* Icon120.png in Resources */ = {isa = PBXBuildFile; fileRef = EB9244571806738D00601749 /* Icon120.png */; };
 		EB92445B1806738D00601749 /* Icon152.png in Resources */ = {isa = PBXBuildFile; fileRef = EB9244581806738D00601749 /* Icon152.png */; };
+		EBA4D1221828527E00D5FEF9 /* RevMobAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7E0D24917C7961C0020A198 /* RevMobAds.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		EBA4D125182858C200D5FEF9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 507022A2107672FA00393637 /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -637,6 +637,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBA4D1221828527E00D5FEF9 /* RevMobAds.framework in Frameworks */,
 				E7E0CCF617C78D980020A198 /* libxml2.2.dylib in Frameworks */,
 				E7B0B83114291DDF001C26AC /* libxml2.dylib in Frameworks */,
 				E71BF81D14219773002895C1 /* MediaPlayer.framework in Frameworks */,
@@ -677,7 +678,6 @@
 				E7E0D25117C7961D0020A198 /* libChartboost.a in Frameworks */,
 				E7E0D25317C7961D0020A198 /* libGoogleAdMobAds.a in Frameworks */,
 				E7E0D25517C7961E0020A198 /* libAdapterIAd.a in Frameworks */,
-				E7E0D25717C7961E0020A198 /* RevMobAds.framework in Frameworks */,
 				E7E0D25817C7961E0020A198 /* TapjoyPublisherLibrary.a in Frameworks */,
 				E7E0D3A917C7975D0020A198 /* libz.1.2.3.dylib in Frameworks */,
 				E7E0D3B717C797640020A198 /* libFlurry.a in Frameworks */,
@@ -1754,7 +1754,6 @@
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				E76FDD8D13AC46FC00383653 /* RootViewController.m in Sources */,
-				E781229413C916B1001705F1 /* AppDelegate.m in Sources */,
 				E7A06A571419AF0100D2B468 /* Reachability.m in Sources */,
 				E792E2C414E1B09900F931CD /* CrazyPoppersLevels.m in Sources */,
 				E7A55F3914E956C200AED078 /* CrazyPoppers.m in Sources */,
@@ -1857,6 +1856,7 @@
 				E7E0D3B017C7975D0020A198 /* CJSONDeserializer.m in Sources */,
 				E7E0D3B117C7975D0020A198 /* CJSONScanner.m in Sources */,
 				E7E0D3B217C7975D0020A198 /* CJSONSerializer.m in Sources */,
+				EBA4D125182858C200D5FEF9 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1873,7 +1873,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Ad Networks\"";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\\\"$(SRCROOT)/Ad\\ Networks\\\"",
+					"/Users/jstrydom/incredible-adventure/iOS\\ Apps/CrazyPoppers800/CrazyPoppers\\ 800/Ad\\ Networks",
+				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -1922,7 +1925,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Ad Networks\"";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\\\"$(SRCROOT)/Ad\\ Networks\\\"",
+					"/Users/jstrydom/incredible-adventure/iOS\\ Apps/CrazyPoppers800/CrazyPoppers\\ 800/Ad\\ Networks",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = CrazyBlowfishPoppers_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
@@ -2027,7 +2033,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Ad Networks\"";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\\\"$(SRCROOT)/Ad\\ Networks\\\"",
+					"/Users/jstrydom/incredible-adventure/iOS\\ Apps/CrazyPoppers800/CrazyPoppers\\ 800/Ad\\ Networks",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = CrazyBlowfishPoppers_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;

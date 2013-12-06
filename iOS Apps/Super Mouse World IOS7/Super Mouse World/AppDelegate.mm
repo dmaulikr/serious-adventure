@@ -1,6 +1,6 @@
 //
 //  AppDelegate.mm
-//  Super Mouse World
+//  Mighty Possum World
 //
 //  Created by Luiz Menezes on 18/10/12.
 //  Copyright Thetis Games 2012. All rights reserved.
@@ -15,25 +15,25 @@
 #import "MKStoreManager.h"
 
 #ifdef  FREE_ELE_VERSION
-#define REVMOB_ID  @"515ca02689e7f41200000001"
+#define REVMOB_ID  @"52893a764f4ca611ef000024"
 #elif   PAID_ELE_VERSION
-#define REVMOB_ID  @"515ca02689e7f41200000001"
+#define REVMOB_ID  @"52893a764f4ca611ef000024"
 #elif   FREEHD_ELE_VERSION
-#define REVMOB_ID  @"515ca02689e7f41200000001"
+#define REVMOB_ID  @"52893a764f4ca611ef000024"
 #elif   PAIDHD_ELE_VERSION
-#define REVMOB_ID  @"515ca02689e7f41200000001"
+#define REVMOB_ID  @"52893a764f4ca611ef000024"
 #else
-#define REVMOB_ID  @"515ca02689e7f41200000001"
+#define REVMOB_ID  @"52893a764f4ca611ef000024"
 #endif
 
 #ifdef FREE_ELE_VERSION
-#define kLeaderboardID @"com.supermario.free.leaderboard"
+#define kLeaderboardID @"au.com.incredibleadventure.mightypossum.free.leaderboard"
 #elif PAID_ELE_VERSION
-#define kLeaderboardID @"com.supermario.paid.leaderboard"
+#define kLeaderboardID @"au.com.incredibleadventure.mightypossum.paid.leaderboard"
 #elif FREEHD_ELE_VERSION
-#define kLeaderboardID @"com.supermario.freeHD.leaderboard"
+#define kLeaderboardID @"au.com.incredibleadventure.mightypossum.freehd.leaderboard"
 #elif PAIDHD_ELE_VERSION
-#define kLeaderboardID @"com.supermario.paidHD.leaderboard"
+#define kLeaderboardID @"au.com.incredibleadventure.mightypossum.paidhd.leaderboard"
 #endif
 
 @implementation MyNavigationController
@@ -210,17 +210,17 @@
     self.cb = [Chartboost sharedChartboost];
     
 #ifdef FREE_ELE_VERSION
-    self.cb.appId = @"515ca11017ba47f768000000";
-    self.cb.appSignature = @"c364ecacb47b047b94ee2040ba07688d16e47321";
+    self.cb.appId = @"5267294516ba47bf16000003";
+    self.cb.appSignature = @"33bdd1bb70e37da66baa5d3e2c7ea0d4dd2b3761";
 #elif PAID_ELE_VERSION
-    self.cb.appId = @"515ca11017ba47f768000000";
-    self.cb.appSignature = @"c364ecacb47b047b94ee2040ba07688d16e47321";
+    self.cb.appId = @"526729ad17ba47ed79000006";
+    self.cb.appSignature = @"c493e144fbe0850dcaeaef340aa26fc7c7a3b01f";
 #elif FREEHD_ELE_VERSION
-    self.cb.appId = @"515ca11017ba47f768000000";
-    self.cb.appSignature = @"c364ecacb47b047b94ee2040ba07688d16e47321";
+    self.cb.appId = @"52672a3516ba47ff19000000";
+    self.cb.appSignature = @"3bde84d4fd2abb97faa64d73858623025aa9e9e8";
 #elif PAIDHD_ELE_VERSION
-    self.cb.appId = @"515ca11017ba47f768000000";
-    self.cb.appSignature = @"c364ecacb47b047b94ee2040ba07688d16e47321";
+    self.cb.appId = @"52672a9c16ba47c216000013";
+    self.cb.appSignature = @"a00a41e361805a792df91ac0b1329f34ca61086a";
 #endif
     [self.cb startSession];
     

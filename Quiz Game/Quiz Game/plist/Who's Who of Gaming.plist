@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lee Perry</key>
+	<string>Lead Gameplay Tester - Gears of War 3</string>
+	<key>Wyth Johnson</key>
+	<string>Lead Artist - Gears of War 3</string>
+	<key>Joe Graf</key>
+	<string>Lead Programmer - Gears of War 3</string>
+	<key>Rod Fergusson</key>
+	<string>Executive Producer - Gears of War 3</string>
+	<key>Cliff Bleszinski</key>
+	<string>Design Director - Gears of War 3</string>
+	<key>Noriyoshi Sasaki</key>
+	<string>Movie Director - Gran Turismo 5</string>
+	<key>Tatsuya Matsue</key>
+	<string>CG / Architect - Gran Turismo 5</string>
+	<key>Takeshi Yokouchi</key>
+	<string>Visual Effects - Gran Turismo 5</string>
+	<key>Shuichi Takano</key>
+	<string>Graphics Architect - Gran Turismo 5</string>
+	<key>Kazunori Yamauchi</key>
+	<string>Director / Producer - Gran Turismo 5</string>
+	<key>Malcolm Shortt</key>
+	<string>VFX Artist - Grand Theft Auto 4</string>
+	<key>Paul MacPherson</key>
+	<string>Cutscene Lighting - Grand Theft Auto 4</string>
+	<key>Ian McQue</key>
+	<string>Concept Artists - Grand Theft Auto 4</string>
+	<key>Iamran Sarwar</key>
+	<string>Asscociate Producer - Grand Theft Auto 4</string>
+	<key>Aaron Garbut</key>
+	<string>Art Director - Grand Theft Auto 4</string>
+	<key>Leslie Benzies</key>
+	<string>Producer - Grand Theft Auto 4</string>
+	<key>Natalia Smirnova</key>
+	<string>Illustration - Fallout 3</string>
+	<key>Josh Jones</key>
+	<string>Lead Animator - Fallout 3</string>
+	<key>Kevin Kauffman</key>
+	<string>Quality Assurance Lead - Fallout 3</string>
+	<key>Joel Burgess</key>
+	<string>Lead Level Designer - Fallout 3</string>
+	<key>Steve Meister</key>
+	<string>Lead Programmer - Fallout 3</string>
+	<key>Gavin Carter</key>
+	<string>Lead Producer - Fallout 3</string>
+	<key>Emil Pagliarulo</key>
+	<string>Lead Designer and Writer - Fallout 3</string>
+	<key>Durmuş Ali  ÇÖLLÜ</key>
+	<string>Lead Programmer - Thundergod Matches</string>
+	<key>Scott Arnold</key>
+	<string>Research Team - Thundergod Matches</string>
+	<key>Brad Moore</key>
+	<string>Concept Artist - Thundergod Matches</string>
+	<key>Allison Yaeger</key>
+	<string>Game Design - Thundergod Matches</string>
+	<key>Cornell Womack</key>
+	<string>Voice of James Heller -  Prototype 2</string>
+	<key>Darryl Kurylo</key>
+	<string>Voice of Alex Mercer -  Prototype 2</string>
+	<key>Jerod Fry</key>
+	<string>Lead Character Artist -  Prototype 2</string>
+	<key>Christopher Sjoholm</key>
+	<string>Senior Art Director - Prototype 2</string>
+	<key>Jason Pennington</key>
+	<string>Lead Lighting Artist - Prototype 2</string>
+	<key>Michael Gough</key>
+	<string>Voice of Deckard Cain - Biablo III</string>
+	<key>Paul Warzecha</key>
+	<string>Lead Character Artist - Diablo III</string>
+	<key>Leonard Boyarsky</key>
+	<string>World Designer - Diablo III</string>
+	<key>Jay Wilson</key>
+	<string>Lead Designer - Diablo III</string>
+	<key>Jason Regier</key>
+	<string>Lead Programmer - Diablo III</string>
+	<key>Alex Mayberry</key>
+	<string>Lead Producer - Diablo III</string>
+	<key>Ray Gresko</key>
+	<string>Production Director - Diablo III</string>
+	<key>Nick Wiswell</key>
+	<string>Creative Audio Director - Forza 4</string>
+	<key>James O&apos;Donnell</key>
+	<string>Technical Artist - Forza 4</string>
+	<key>Brian *Moon* Mulligan</key>
+	<string>Content Executive Producer - Forza 4</string>
+	<key>David Gierok</key>
+	<string>Lead Experience Engineer - Forza 4</string>
+	<key>Scott Catlin</key>
+	<string>Lead Content Designer - Forza 4</string>
+	<key>Bill Giese</key>
+	<string>Lead Experience Designer - Forza 4</string>
+	<key>Geoff Pitsch</key>
+	<string>Co-Lead Programmer - Rock Band</string>
+	<key>Douglas Applewhite</key>
+	<string>Lead Programmer - Rock Band</string>
+	<key>Brian Chan</key>
+	<string>Lead Designer - Rock Band</string>
+	<key>Todd Baker</key>
+	<string>Producer - Rock Band</string>
+	<key>Jason Kendall</key>
+	<string>Music Licensing - Rock Band</string>
+	<key>Dave Fennoy</key>
+	<string>Voice of Gabriel Tosh - Starcraft II</string>
+	<key>Tricia Helfer</key>
+	<string>Voice of Sarah Kerrigan - Starcraft II</string>
+	<key>Dustin Browder</key>
+	<string>Lead Designer - Starcraft II</string>
+	<key>Samwise Didier</key>
+	<string>Art Director - Starcraft II</string>
+	<key>Chris Metzin</key>
+	<string>Story Director - Starcraft II</string>
+	<key>Rob Pardo</key>
+	<string>Design Director - Starcraft II</string>
+	<key>Frank Pearce</key>
+	<string>Executive Producer - Starcraft II</string>
+	<key>Jeff Mackpherson</key>
+	<string>Audio Director - Fifa 13</string>
+	<key>Jeffrey Kwok</key>
+	<string>Interface Designer - Fifa 13</string>
+	<key>Federico Rahal</key>
+	<string>CG Supervisor - Fifa 13</string>
+	<key>Mike Day</key>
+	<string>Art Director - Fifa 13</string>
+	<key>Scott Murray</key>
+	<string>Franchise Development Director - Fifa 13</string>
+	<key>Simon Humber</key>
+	<string>Creative Director - Fifa 13</string>
+	<key>David Rutter</key>
+	<string>Executive Producer - Fifa 13</string>
+	<key>Roy Harve</key>
+	<string>Executive Producer - Madden 13</string>
+	<key>Aaron Janzen</key>
+	<string>Audio Director - Madden 13</string>
+	<key>Mike Young</key>
+	<string>Creative Director - Madden 13</string>
+	<key>John White</key>
+	<string>Designer - Madden 13</string>
+	<key>Vince Dickinson</key>
+	<string>Development Manager - Madden 13</string>
+	<key>Chris Wood</key>
+	<string>Software Engineer - Madden 13</string>
+	<key>Paul Wright</key>
+	<string>Multiplayer Design - Fable 3</string>
+	<key>John Cleese</key>
+	<string>Voice of Jasper - Fable 3</string>
+	<key>Michael Fassbender</key>
+	<string>Voice of Logan - Fable 3</string>
+	<key>JC Taylor</key>
+	<string>Development Manager - Fable 3</string>
+	<key>Guillaume Portes</key>
+	<string>Lead Programmer - Fable 3</string>
+	<key>SI Jaques</key>
+	<string>Lead Animator - Fable 3</string>
+	<key>Peter Molyneux</key>
+	<string>Creative Director - Fable 3</string>
+	<key>Michael Ironside</key>
+	<string>Voice of Sam Fisher - Tom Clancy&apos;s Splinter Cell</string>
+	<key>Nathan Wolff</key>
+	<string>Lead Game Designer - Tom Clancy&apos;s Splinter Cell</string>
+	<key>Fancois Pelland</key>
+	<string>Lead Artist -  Tom Clancy&apos;s Splinter Cell</string>
+	<key>Antoine Dodens</key>
+	<string>Lead Programmer - Tom Clancy&apos;s Splinter Cell</string>
+	<key>Roxane Gosselin</key>
+	<string>Asscociate Producer - Tom Clancy&apos;s Splinter Cell</string>
+	<key>Hugo Dallaire</key>
+	<string>Art Director - Tom Clancy&apos;s Splinter Cell</string>
+	<key>Mark Petty</key>
+	<string>Audio Director -  Borderlands 2</string>
+	<key>David Eddings</key>
+	<string>Voice of Claptrap -  Borderlands 2</string>
+	<key>Colleen Clinkenbeard</key>
+	<string>Voice of Lilith -  Borderlands 2</string>
+	<key>Patrick Deupree</key>
+	<string>Programmer -  Borderlands 2</string>
+	<key>Paul Hellquist</key>
+	<string>Creatvie Director - Borderlands 2</string>
+	<key>Catherine *CAT* Taber</key>
+	<string>Voice of Mission Vao -  Knights of the Old Republic</string>
+	<key>Ed Asner</key>
+	<string>Voice of Master Vrook Lamar - Knights of the Old Republic</string>
+	<key>David Chan</key>
+	<string>Audio Producer - Knights of the Old Republic</string>
+	<key>Steve Gilmour</key>
+	<string>Lead Animator - Knights of the Old Republic</string>
+	<key>James Ohlen</key>
+	<string>Lead Designer - Knights of the Old Republic</string>
+	<key>Chloë Grace Moretz</key>
+	<string>Voice of Lady Emily Kaldwin - Dishonored </string>
+	<key>Lena Headey</key>
+	<string>Voice of Callista Curnow - Dishonored</string>
+	<key>Billy Lush</key>
+	<string>Voice of the Outsider - Dishonored</string>
+	<key>Susan Sarandon</key>
+	<string>Voice of Granny Rags - Dishonored</string>
+	<key>Christophe Carrier</key>
+	<string>Audio Director - Dishonored</string>
+	<key>Stevan Hird</key>
+	<string>Lead Programmer - Dishonored</string>
+	<key>Sébastien Mitton</key>
+	<string>Art Director - Dishonored</string>
+	<key>Julien Roby</key>
+	<string>Executive Producer - Dishonored</string>
+	<key>Harter Ryan</key>
+	<string>Lead Producer - Age of Empires 2</string>
+	<key>Stephen Rippy</key>
+	<string>Lead Music - Age of Empires 2</string>
+	<key>Angelo Laudon</key>
+	<string>Lead Programmer - Age of Empires 2</string>
+	<key>Peter Zinda</key>
+	<string>Sound Designer - Left 4 Dead</string>
+	<key>Miles Estes</key>
+	<string>Lead Animator - Left 4 Dead</string>
+	<key>Earl Alexander</key>
+	<string>Voice Louis - Left 4 Dead</string>
+	<key>Jen Taylor</key>
+	<string>Voice of Zoey - Left 4 Dead</string>
+	<key>Shane Hawco</key>
+	<string>Lead Character Artist - Dragon Age Origin&apos;s Awakening</string>
+	<key>Owen Borstad</key>
+	<string>Lead Programmer - Dragon Age Origin&apos;s Awakening</string>
+	<key>Adriana Lopez</key>
+	<string>Project Manager - Dragon Age Origin&apos;s Awakening</string>
+	<key>Ferret Baudoin</key>
+	<string>Lead Designer - Dragon Age Origin&apos;s Awakening</string>
+	<key>Fernando Melo</key>
+	<string>Producer - Dragon Age Origin&apos;s Awakening</string>
+	<key>Ray Muzyka</key>
+	<string>CEO - Bioware</string>
+	<key>Greg Zeschuk</key>
+	<string>President - Bioware</string>
+	<key>David Falkner</key>
+	<string>Lead Programmer - Mass Effect</string>
+	<key>Derek Watts</key>
+	<string>Art Director - Mass Effect</string>
+	<key>Drew Karpyshyn</key>
+	<string>Lead Writer - Mass Effect</string>
+	<key>Preston Watamaniuk</key>
+	<string>Lead Designer - Mass Effect</string>
+	<key>Casey Hudson</key>
+	<string>Project Director - Mass Effect</string>
+	<key>Richard Leymarchand</key>
+	<string>Lead Game Designer - Uncharted Drake&apos;s Fortune</string>
+	<key>Bruce Swanson</key>
+	<string>Audio Lead - Uncharted Drake&apos;s Fortune</string>
+	<key>Amy Hennig</key>
+	<string>Game Director - Uncharted Drake&apos;s Fortune</string>
+	<key>Tim Stellmach</key>
+	<string>Lead Designer - Thief The Dark Project </string>
+	<key>Mark Lizotte</key>
+	<string>Lead Artist - Thief The Dark Project </string>
+	<key>Tom Leonard</key>
+	<string>Lead Programmer - Thief The Dark Project</string>
+	<key>Gary Whitta</key>
+	<string>Story Consoltant -  The Walking Dead (Telltale Games)</string>
+	<key>Derek Sakai</key>
+	<string>Art Director - The Walking Dead (Telltale Games)</string>
+	<key>Sean Vanaman</key>
+	<string>Writer - The Walking Dead (Telltale Games)</string>
+	<key>Toshiaki Suzuki</key>
+	<string>GBA Planning - Legend of Zelda: Wind Waker</string>
+	<key>Shigeo Kimura</key>
+	<string>System Dirctor - Legend of Zelda: Wind Waker</string>
+	<key>Eiji Aonuma</key>
+	<string>Director - Legend of Zelda: Wind Waker</string>
+	<key>Kenneth Scott</key>
+	<string>Lead Artist - Doom 3</string>
+	<key>Robert A. Duffy</key>
+	<string>Lead Programmer - Doom 3</string>
+	<key>Christian Auntkow</key>
+	<string>Sound Designer - Doom 3</string>
+	<key>Tim Willits</key>
+	<string>Lead Designer - Doom 3</string>
+	<key>John Carmack</key>
+	<string>Technical Director - Doom 3</string>
+	<key>Kenji Yamamoto</key>
+	<string>Sound Programmer - Super Metroid</string>
+	<key> Tomomi Yamane</key>
+	<string>Samus Designer - Super Metroid</string>
+	<key>Yoshio Sakamoto</key>
+	<string>Director - Super Metroid</string>
+	<key>Makoto Kanoh</key>
+	<string>Producer - Super Metroid</string>
+	<key>Kenta Nagata</key>
+	<string>Music Composer - Mario Kart 64</string>
+	<key>Tadashi Sugiyama</key>
+	<string>Visual Director - Mario Kart 64</string>
+	<key>Yasuyuki Oyagi</key>
+	<string>Assistant Director - Mario Kart 64</string>
+	<key>Hiroshi Yamauchi</key>
+	<string>Executive Producer - Mario Kart 64</string>
+	<key>Alexey Pajitnov</key>
+	<string>Designer - Tetris</string>
+	<key>Hirokazu Kawagishi</key>
+	<string>Main Programmer - Mega Man 10</string>
+	<key>Masaya Suzuki</key>
+	<string>Chief Bitmap Artist - Mega Man 10</string>
+	<key>Yuta Watanabe</key>
+	<string>Character Designer - Mega Man 10</string>
+	<key>Ryota Ito</key>
+	<string>Director - Mega Man 10</string>
+	<key>Chris Sutherland</key>
+	<string>Head Programmer - Donkey Kong Country</string>
+	<key>Gregg Mayles</key>
+	<string>Game Design - Donkey Kong Country</string>
+	<key>Tim Stamper</key>
+	<string>Game Director - Donkey Kong Country</string>
+	<key>Satoru Iwata</key>
+	<string>Executive Producer - Super Mario Bro 3</string>
+	<key>Hideki Konno</key>
+	<string>Assistant Director of Super Mario Bro 3</string>
+	<key>Guy Carver</key>
+	<string>Lead Programmer - The Elder Scrolls V: Skyrim</string>
+	<key>Brett W. Sperry</key>
+	<string>Executive Producer - Command &amp; Conquer</string>
+	<key>Justin Thavirat</key>
+	<string>Lead Artist - World of Warcraft</string>
+	<key>Ron Smith</key>
+	<string>Screenplay - Command &amp; Conquer</string>
+	<key>Joseph Kucan</key>
+	<string>Actor who played Kane - Command &amp; Conquer</string>
+	<key>Cade Myers</key>
+	<string>Lead Tester - Half-life</string>
+	<key>Doug Lombardi</key>
+	<string>Product Manager - Half-Life</string>
+	<key>Mike Morhaime</key>
+	<string>Executive Producer - World of Warcraft</string>
+	<key>William Petras</key>
+	<string>Art Director - World of Warcraft</string>
+	<key>John Cash</key>
+	<string>Lead Programmer - World of Warcraft</string>
+	<key>Thor Biafore</key>
+	<string>Techincal Support Manager - World of Warcraft</string>
+	<key>Martin O&apos;Donnell</key>
+	<string>Original Music - Halo Combat Evolved</string>
+	<key>Alexander Seropian</key>
+	<string>Executive Producer - Halo Combat Evolved</string>
+	<key>David Jaffe</key>
+	<string>Game Designer - God of War</string>
+	<key>Jason Jones</key>
+	<string>Project Lead - Halo Combat Evolved</string>
+	<key>Christer Ericson</key>
+	<string>Lead Engine Programmer - God of War</string>
+	<key>Tim Moss</key>
+	<string>Lead Programmer - God of War</string>
+	<key>Dave Anthony</key>
+	<string>Screenplay Writer - COD: Black Ops II</string>
+	<key>Sam Worthington</key>
+	<string>Voice of Alex Maxon - COD: Black Ops II</string>
+	<key>Nolan North</key>
+	<string>Voice of Richtofen - COD: Black Ops II Zombies</string>
+	<key>Kristen Bell</key>
+	<string>Voice of Lucy Stillman - Assassin&apos;s Creed II</string>
+	<key>Brandon Idol</key>
+	<string>Lead Character Artist - World of Warcraft</string>
+	<key>Roger Craig Smith</key>
+	<string>Voice of Chris Redfield - Resident Evil 6</string>
+	<key>Matthew Mercer</key>
+	<string>Voice of Leon S Kennedy - Resident Evil 6</string>
+	<key>Saga Yasuyuki</key>
+	<string>Background Story - Resident Evil: Playstation</string>
+	<key>Ohishi Isao</key>
+	<string>Character Designer - Resident Evil: Playstation</string>
+	<key>Tetsuya Shibata</key>
+	<string>Music Composer - Power Stone</string>
+	<key>Yu Suzuki</key>
+	<string>Creator - Shenmue</string>
+	<key>Hideo Kojima</key>
+	<string>Director - Metal Gear Solid</string>
+	<key>Yoji Shinkawa</key>
+	<string>Character Design - Metal Gear Solid</string>
+	<key>David Hayter</key>
+	<string>Voice of Solid Snake - Metal Gear Solid</string>
+	<key>Todd Howard</key>
+	<string>Director - The Elder Scrolls V: Skyrim</string>
+	<key>Ryan Waller</key>
+	<string>Game Designer Thundergod Matches</string>
+	<key>Christopher Mann</key>
+	<string>Lead Character Modeler - Neverwinter Nights</string>
+	<key>John Romero</key>
+	<string>Designer - Daikatana</string>
+	<key>Shawn Green</key>
+	<string>Lead Programmer -Daikatana</string>
+	<key>Randy Pitchford</key>
+	<string>Founder of Gearbox</string>
+	<key>Allen Adham</key>
+	<string>Executive Producer - Diablo</string>
+	<key>David Brevik</key>
+	<string>Lead Programmer - Diablo</string>
+	<key>Matt Uelmen</key>
+	<string>Music - Diablo</string>
+	<key>David Hibbeln</key>
+	<string>Director of Art - Neverwinter Nights</string>
+	<key>Yu Namba</key>
+	<string>Project Lead - Ogre Battles 64</string>
+	<key>John Yamaoto</key>
+	<string>Executive Producer - Ogre Battles 64</string>
+	<key>Shigeru Miyamoto</key>
+	<string>Designer of Super Mario</string>
+	<key>Alex Scott</key>
+	<string>Effects Artist - Neverwinter Nights</string>
+	<key>Ting Li</key>
+	<string>Strategy Map A.I - Medieval: Total War</string>
+	<key>Mike Simpson</key>
+	<string>Project Director - Medieval: Total War</string>
+	<key>Youichi Miyaji</key>
+	<string>Executive Producer Lunar: Silver Star Story</string>
+	<key>Trent Oster</key>
+	<string>Project Director - Neverwinter Nights</string>
+	<key>Kenneth S Rosman</key>
+	<string>This games American and European Geonet server was shut down on June 18, 2013.</string>
+</dict>
+</plist>
